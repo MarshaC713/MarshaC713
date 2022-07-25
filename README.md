@@ -6,16 +6,22 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 🌱 I’m also currently learning Software Engineering, including Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
-- 🖊 Follow my tech journey here:[ My Blog](https://medium.com/@Marsha.C)
-- ⛓ Connect with me on [ LinkedIn](https://www.linkedin.com/in/marshacastellomastersgraduate)
-- 📫 Find all of my social media links [Here.](https://linktr.ee/marshacastello)
+- 🖊 Follow my tech journey here: <a href="/www.medium.com/@Marsha.C">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="LinkedIn Badge"/>
+
+  
+- ⛓ Connect with me on   <a href="/www.linkedin.com/in/marshacastellomastersgraduate">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+- 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 
 
 
+
 <div id="header" align="center">
-  <img src="https:://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="100"/>
+  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
 </div>
 
 ## 🔧 Tech Stack 
