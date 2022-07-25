@@ -1,4 +1,7 @@
 ![Blue Violet Neon Best Games YouTube Thumbnail](https://user-images.githubusercontent.com/82414822/180852349-a84759d0-aeef-457b-bb99-810b5a26d2cf.png)
+
+<div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
+
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Marsha Castello, and I am a new software engineer trainee studying cloud computing, Python and C#. I am new to the tech space, with a passion for emerging technologies and innovation. I am based in London, England and currently work for The UK, Civil Service. You can find me via my links below.
 
@@ -7,7 +10,7 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
 - 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 
   
 - ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
@@ -16,6 +19,7 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
+
 
 
 
