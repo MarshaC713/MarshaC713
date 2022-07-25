@@ -3,7 +3,8 @@
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Marsha Castello, and I am a new software engineer trainee studying cloud computing, Python and C#. I am new to the tech space, with a passion for emerging technologies and innovation. I am based in London, England and currently work for The UK, Civil Service. You can find me via my links below.
+My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#. I have a passion for emerging technologies and innovation and I am keen to continuously develop my developer skills. I am based in London, England and currently work for The UK, Civil Service, hence bring with me a wealth of transferable skills. 
+You can find me via my links below.
 
 - 🔭 I’m currently working on the Azure Cloud Resume Challenge
 - 🌱 I’m also currently learning Software Engineering, including Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
