@@ -6,11 +6,11 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 🌱 I’m also currently learning Software Engineering, including Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
-- 🖊 Follow my tech journey here: <a href="/www.medium.com/@Marsha.C">
+- 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="LinkedIn Badge"/>
 
   
-- ⛓ Connect with me on   <a href="/www.linkedin.com/in/marshacastellomastersgraduate">
+- ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
