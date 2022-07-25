@@ -6,9 +6,9 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 🌱 I’m also currently learning Software Engineering, including Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
-- 🖊 Read my blog here: https://medium.com/@Marsha.C
-- ⛓ Connect with me on linked in: https://www.linkedin.com/in/marshacastellomastersgraduate
-- 📫 Find all of my social media links here: https://linktr.ee/marshacastello
+- 🖊 Follow my tech journey here:[ My Blog](https://medium.com/@Marsha.C)
+- ⛓ Connect with me on [ LinkedIn](https://www.linkedin.com/in/marshacastellomastersgraduate)
+- 📫 Find all of my social media links [Here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 
@@ -26,11 +26,29 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
 -  Find out more about my tech journey here: [My Blog] (https://medium.com/@Marsha.C)
-- ⛓ Connect with me on [linked in] (https://www.linkedin.com/in/marshacastellomastersgraduate) 
+- ⛓ Connect with me on [linked in](https://www.linkedin.com/in/marshacastellomastersgraduate) 
 - 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 -->
+
+
+## 🔧 Tech Stack 
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Git-Hub-informational?style=flat&logo=Git-Hub&logoColor=white&color=B987F1)
+
+
 ## 📈 GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
@@ -42,4 +60,3 @@ Here are some ideas to get you started:
 
 
 
-## 🔧 Tech Stack 
