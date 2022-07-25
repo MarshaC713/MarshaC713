@@ -4,7 +4,7 @@
 
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London. I have a passion for emerging ethical sustainable technologies and innovation
+My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London. I have a passion for emerging ethical and sustainable technologies and innovation
 
 You can find me via my links below.
 
@@ -44,6 +44,12 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
 
+
+### :writing_hand: My Blog Posts :
+In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 📈 My GitHub Stats
