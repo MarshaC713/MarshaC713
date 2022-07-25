@@ -11,8 +11,6 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 - 💬 Ask me about Azure Cloud Computing
 - 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
-
-  
 - ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,7 +22,7 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 
 
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
 </div>
 
@@ -45,7 +43,7 @@ My name is Marsha Castello, and I am a new software engineer trainee studying cl
 
 
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 
