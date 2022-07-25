@@ -49,6 +49,8 @@ You can find me via my links below.
 In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
+- [Life as a Bootcamper!](https://medium.com/@Marsha.C/life-as-a-bootcamper-35bd43e80504?source=rss-c8b1973cb4de------2)
+- [A Bit About Me…](https://medium.com/@Marsha.C/hello-dear-reader-843844b8059e?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
 
