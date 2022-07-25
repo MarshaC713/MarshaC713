@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MarshaC713/<MarshaC713>/<MarshaC713>/readme_header.png "Header")](https://github.com/MarshaC713/MarshaC713/blob/main/Blue%20Violet%20Neon%20Best%20Games%20YouTube%20Thumbnail.png/)
-### Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#. I am based in London, England and currently work for The UK, Civil Service. You can find me via my links below.
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#. I am based in London, England and currently work for The UK, Civil Service. You can find me via my links below.
 <!--
 **MarshaC713/MarshaC713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
