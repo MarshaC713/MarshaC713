@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 -->
 ![Marsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=github-readme-stats&theme=jolly&show_icons=true)](https://github.com/MarshaC713/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=github-readme-stats)](https://github.com/MarshaC713/github-readme-stats)
