@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MarshaC713/<MarshaC713>/<MarshaC713>/readme_header.png "Header")](https://github.com/MarshaC713/MarshaC713/blob/main/Blue%20Violet%20Neon%20Best%20Games%20YouTube%20Thumbnail.png/)
+[![Header](https://raw.githubusercontent.com/MarshaC713/MarshaC713/MarshaC713/readme_header.png "Header")](https://github.com/MarshaC713/MarshaC713/blob/main/Blue%20Violet%20Neon%20Best%20Games%20YouTube%20Thumbnail.png/)
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#. I am based in London, England and currently work for The UK, Civil Service. You can find me via my links below.
 <!--
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 -->
 ![Marsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=github-readme-stats)](https://github.com/MarshaC713/github-readme-stats)
+![Marsha's GitHub Repo](https://github-readme-repo.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
