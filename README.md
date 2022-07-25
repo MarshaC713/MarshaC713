@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
--  Read my blog here: https://medium.com/@Marsha.C
-- ⛓ Connect with me on linked in: https://www.linkedin.com/in/marshacastellomastersgraduate [![LinkedIn][3.2]][3]
-- 📫 Find all of my social media links here: https://linktr.ee/marshacastello
+-  Find out more about my tech journey here: [My Blog] (https://medium.com/@Marsha.C)
+- ⛓ Connect with me on [linked in] (https://www.linkedin.com/in/marshacastellomastersgraduate) 
+- 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 -->
-## &#x1f4c8; 📈 GitHub Stats
+## 📈 GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 
@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/MarshaC713/azume-resume">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=azure-resume&theme=jolly" />
 </a>
+
+
+
+## 🔧 Tech Stack 
