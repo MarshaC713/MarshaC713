@@ -19,7 +19,7 @@ You can find me via my links below.
   </a>
 - 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
+- ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love digital art, creating cute coding games using Scratch, sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 
 
 
