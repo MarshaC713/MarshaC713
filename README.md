@@ -45,7 +45,7 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
 
 
-### :writing_hand: My Blog Posts :
+## :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
@@ -54,7 +54,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 <!-- BLOG-POST-LIST:END -->
 
 
-## 📈 My GitHub Stats
+## 📈 :fire: My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 
