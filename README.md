@@ -29,7 +29,7 @@ You can find me via my links below.
   <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
 </div>
 
-## 🔧 Tech Stack 
+## 🔧 My Current Tech Stack 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
@@ -59,15 +59,19 @@ In addition to software engineering I also write a blog chronicling my journey a
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 
 
-<a href="https://github.com/MarshaC713/azume-resume">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=azure-resume&theme=jolly" />
-</a>
-
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
+
+
+
 
 <!--
 **MarshaC713/MarshaC713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/MarshaC713/azume-resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarshaC713&repo=azure-resume&theme=jolly" />
+</a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
