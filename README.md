@@ -8,9 +8,9 @@ My name is Marsha Castello, and I am a software engineer trainee studying cloud 
 
 You can find me via my links below.
 
-- 🔭 I’m currently working on the Azure Cloud Resume Challenge
-- 🌱 I’m also currently learning Software Engineering, including Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
-- 🤔 I’m looking for help securing an entry level/ junior/ academy tech role
+- 🔭 Project I’m currently working on the Azure Cloud Resume Challenge
+- 🌱 I’m also currently learning, Cloud Computing - Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
+- 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
 - 💬 Ask me about Azure Cloud Computing
 - 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
