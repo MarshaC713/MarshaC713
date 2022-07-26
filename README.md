@@ -3,9 +3,9 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I have a passion for emerging ethical and sustainable technologies and innovation
+I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation.
 
 You can find me via my links below.
 
