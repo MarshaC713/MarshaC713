@@ -4,7 +4,7 @@
 
 ## Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London. I have a passion for emerging ethical and sustainable technologies and innovation
+My name is Marsha Castello, and I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I have a passion for emerging ethical and sustainable technologies and innovation
 
 You can find me via my links below.
 
