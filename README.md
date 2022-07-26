@@ -9,7 +9,7 @@ I am a software engineer trainee studying cloud computing, Python and C#.  I hol
 
 You can find me via my links below.
 
-- 🔭 Project I’m currently working on is the Azure Cloud Resume Challenge
+- 🔭 Project I’m currently working on is the [Azure Cloud Resume Challenge](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 - 🌱 I’m also currently learning, Cloud Computing - Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
 - ❓  Ask me about Azure Cloud Computing
