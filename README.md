@@ -20,7 +20,7 @@ You can find me via my links below.
   </a>
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also love digital art, creating cute coding games using Scratch, sci-fi and fantasy movies particularly Marvel, live music, and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+- ⚡ Fun fact: I also love digital art, creating cute coding games using [Scratch,](https://scratch.mit.edu/projects/647244529) sci-fi and fantasy movies particularly Marvel, live music, and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 
 
@@ -46,6 +46,8 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
 ## :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
