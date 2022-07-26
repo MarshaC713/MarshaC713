@@ -29,7 +29,7 @@ You can find me via my links below.
   <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
 </div>
 
-## 🔧 My Current Tech Stack 
+## 🔧 My Current Tech Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
