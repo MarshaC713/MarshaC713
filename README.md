@@ -43,7 +43,9 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
-
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
 
 ## :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
