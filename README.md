@@ -11,13 +11,13 @@ You can find me via my links below.
 - 🔭 Project I’m currently working on the Azure Cloud Resume Challenge
 - 🌱 I’m also currently learning, Cloud Computing - Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
-- 💬 Ask me about Azure Cloud Computing
+- ❓  Ask me about Azure Cloud Computing
 - 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 - ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 📫 Find all of my social media links [here](https://linktr.ee/marshacastello)
+- 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love digital art, creating cute coding games using Scratch, sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
 
