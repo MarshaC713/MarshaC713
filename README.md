@@ -8,7 +8,7 @@ My name is Marsha Castello, and I am a software engineer trainee studying cloud 
 
 You can find me via my links below.
 
-- 🔭 Project I’m currently working on the Azure Cloud Resume Challenge
+- 🔭 Project I’m currently working on is the Azure Cloud Resume Challenge
 - 🌱 I’m also currently learning, Cloud Computing - Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
 - ❓  Ask me about Azure Cloud Computing
@@ -19,8 +19,7 @@ You can find me via my links below.
   </a>
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When not eating chocolate I'm a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! I also love digital art, creating cute coding games using Scratch, sci-fi and fantasy movies particularly Marvel, live music, and the Theatre!
-
+- ⚡ Fun fact: I also love digital art, creating cute coding games using Scratch, sci-fi and fantasy movies particularly Marvel, live music, and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 
 
