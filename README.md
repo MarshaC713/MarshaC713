@@ -50,7 +50,7 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
 ## :writing_hand: My Latest Blog Posts :
-In addition to software engineering I also write a blog chronicling my journey and interests. Find a sample of my most recent articles below:
+In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
 - [If You Saw A Heatwave… Would You Wave Back?](https://medium.com/@Marsha.C/if-you-saw-a-heatwave-would-you-wave-back-7d5dd9847462?source=rss-c8b1973cb4de------2)
