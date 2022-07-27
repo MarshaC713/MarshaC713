@@ -63,9 +63,13 @@ In addition to software engineering I also write a blog chronicling my journey a
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/MarshaC713/github-readme-stats)
+
+
 
 <!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/MarshaC713/github-readme-stats)
+
 **MarshaC713/MarshaC713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://github.com/MarshaC713/azume-resume">
