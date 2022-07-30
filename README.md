@@ -53,7 +53,7 @@ You can find me via my links below.
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
-- [Considering Server Redundancy Solutions as Hospital Computers Meltdown at Guy’s and St Thomas’…](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
+- [Considering Data Redundancy Solutions as Hospital Computers Meltdown at Guy’s and St Thomas’ during…](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
 - [If You Saw A Heatwave… Would You Wave Back?](https://medium.com/@Marsha.C/if-you-saw-a-heatwave-would-you-wave-back-7d5dd9847462?source=rss-c8b1973cb4de------2)
 - [Life as a Bootcamper!](https://medium.com/@Marsha.C/life-as-a-bootcamper-35bd43e80504?source=rss-c8b1973cb4de------2)
 - [A Bit About Me…](https://medium.com/@Marsha.C/hello-dear-reader-843844b8059e?source=rss-c8b1973cb4de------2)
