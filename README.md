@@ -56,7 +56,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [I am now A Cajigo 100 Women in Tech Mentee!](https://medium.com/@Marsha.C/i-am-now-a-cajigo-100-women-in-tech-mentee-b236bd232b9e?source=rss-c8b1973cb4de------2)
 - [The Not So Slippery World of Python](https://medium.com/@Marsha.C/the-not-so-slippery-world-of-python-f7d61eb76000?source=rss-c8b1973cb4de------2)
 - [Considering Data Redundancy Solutions as Hospital Computers Meltdown During Heatwave!](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
-- [If You Saw A Heatwave… Would You Wave Back?](https://medium.com/@Marsha.C/if-you-saw-a-heatwave-would-you-wave-back-7d5dd9847462?source=rss-c8b1973cb4de------2)
+- [Global Heatwaves and the Increasing Need for Sustainable Technologies](https://medium.com/@Marsha.C/if-you-saw-a-heatwave-would-you-wave-back-7d5dd9847462?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
 
