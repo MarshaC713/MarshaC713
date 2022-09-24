@@ -5,7 +5,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
+I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
 
 You can find me via my links below.
 - 🌱 Currently studying for [Microsoft Azure Developer Associate AZ-204](https://learn.microsoft.com/en-us/certifications/exams/az-204)
