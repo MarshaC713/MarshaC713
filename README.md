@@ -5,14 +5,17 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation.
+I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
 
 You can find me via my links below.
-- 💻 Currently studying for [Microsoft Azure Developer Associate AZ-204](https://learn.microsoft.com/en-us/certifications/exams/az-204)
-- 🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
-- 🌱 I’m also currently learning, Cloud Computing: I have recently gained the Microsoft Azure Fundamentals (AZ-900) certification and I am currently   studying for Microsoft Azure Developer Associate (AZ-204), Python and C#
-- 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
-- ❓  Ask me about Azure Cloud Computing
+- 🌱 Currently studying for [Microsoft Azure Developer Associate AZ-204](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+- 🎓 I have recently gained the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- 🎓 I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+-  🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
+-  🌱 Will soon be starting [Code First Girls](https://www.linkedin.com/company/code-first-girls/videos/native/urn:li:ugcPost:6971032415372779520/): [Introduction to Python & Apps](https://codefirstgirls.com/courses/classes/coding-kickstarter/), and Code First Girls: Introduction to Data & SQL
+- 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
+- 🤔 I’m looking for help securing my first tech role
+- ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
 - 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 - ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
@@ -20,7 +23,7 @@ You can find me via my links below.
   </a>
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also love digital art, creating cute coding games using [Scratch,](https://scratch.mit.edu/projects/647244529) sci-fi and fantasy movies particularly Marvel, live music, and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+- ⚡ Fun fact: I also love digital art, creating cute coding games using [Scratch,](https://scratch.mit.edu/projects/647244529) sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 
 
@@ -48,6 +51,16 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
+
+## 🔧 Education
+- MSc. International Business & Development
+- BA (Hons) Economic & International Development
+- Microsoft Azure Fundamentals
+- Microsoft Azure Developer Associate tbc
+- IT Specialist Python
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (To commence in Oct)
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/):Inroduction to SQL (To commence in Oct)
+
 
 ## :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
