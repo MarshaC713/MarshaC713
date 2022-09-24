@@ -8,8 +8,8 @@
 I am a software engineer trainee studying cloud computing, Python and C#.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation.
 
 You can find me via my links below.
-
-- 🔭 Project I’m currently working on is the [Azure Cloud Resume Challenge](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
+- 💻 Currently studying for [Microsoft Azure Developer Associate AZ-204](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+- 🔭 Projects I’m currently working on are Python, AI and Machine Learning 
 - 🌱 I’m also currently learning, Cloud Computing: I have recently gained the Microsoft Azure Fundamentals (AZ-900) certification and I am currently   studying for Microsoft Azure Developer Associate (AZ-204), Python and C#
 - 🤔 I’m looking for help securing my first entry level/ junior/ academy tech role
 - ❓  Ask me about Azure Cloud Computing
