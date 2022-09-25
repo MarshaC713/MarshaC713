@@ -14,7 +14,7 @@ You can find me via my links below.
 -  🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
 -  🌱 Will soon be starting [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python & Apps, and [Code First Girls](https://www.linkedin.com/company/code-first-girls/videos/native/urn:li:ugcPost:6971032415372779520/): Introduction to Data & SQL
 - 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
-- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cybersecurity
+- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
 - 🖊 Follow my tech journey here:   <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
