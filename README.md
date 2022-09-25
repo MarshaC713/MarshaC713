@@ -16,9 +16,9 @@ You can find me via my links below.
 - 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🤔 I’m looking for help securing my first tech role
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
-- 🖊 Follow my tech journey here: <a href="https://www.medium.com/@Marsha.C">
+- 🖊 Follow my tech journey here:   <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
-- ⛓ Connect with me on   <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
+- ⛓ Connect with me on    <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
