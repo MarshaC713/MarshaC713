@@ -61,7 +61,7 @@ You can find me via my links below.
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (To commence in Oct)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/):Inroduction to SQL (To commence in Oct)
-- [Coding black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning (Current)
+- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning (Current)
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
 - [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
