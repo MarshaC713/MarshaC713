@@ -14,7 +14,7 @@ You can find me via my links below.
 -  🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
 -  🌱 Will soon be starting [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python & Apps, and [Code First Girls](https://www.linkedin.com/company/code-first-girls/videos/native/urn:li:ugcPost:6971032415372779520/): Introduction to Data & SQL
 - 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
-- 🤔 I’m looking for help securing my first tech role
+- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cybersecurity
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
 - 🖊 Follow my tech journey here:   <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
@@ -62,8 +62,8 @@ You can find me via my links below.
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (To commence in Oct)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/):Inroduction to SQL (To commence in Oct)
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
-- [Prince 2 Practitioner Project Management](https://www.axelos.com/successful-candidates-register)  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
-- [Association of Project Management, Project Fundamentals](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view)  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
+- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
 
 ## :writing_hand: My Latest Blog Posts :
