@@ -44,15 +44,14 @@ You can find me via my links below.
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
-![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
-![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
-## 🔧 IDE's/ Code Editors
+
+## 👾 IDE's/ Code Editors
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
 
-## 🔧 Education
+## 🎓  Education
 - MSc. International Business & Development
 - BA (Hons) Economic & International Development
 - [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
@@ -60,6 +59,8 @@ You can find me via my links below.
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (To commence in Oct)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/):Inroduction to SQL (To commence in Oct)
+- Prince 2 Practitioner Project Management![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
+- Association of Project Management, Project Management ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
 
 ## :writing_hand: My Latest Blog Posts :
