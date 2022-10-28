@@ -16,7 +16,6 @@ You can find me via my links below.
 - 🎓 I have recently achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 -  🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
--  🌱 Will soon be starting [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python & Apps, and [Code First Girls](https://www.linkedin.com/company/code-first-girls/videos/native/urn:li:ugcPost:6971032415372779520/): Introduction to Data & SQL
 - 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
