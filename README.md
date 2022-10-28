@@ -9,7 +9,7 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 
 You can find me via my links below.
 
-- 🌱 Currently completing Data Analysis Advanced Skills Bootcamp as sponsored by BT. Curriculum includes: AdvancedData analysis, Forecasting, SQL, Agile, JIRA, Git, Python, AI & Machine Learning, Power BI, Power Query and Cloud Computing
+- 🌱 Currently completing The [Avado] (https://www.avadolearning.com/for-individuals/skills-bootcamps/) Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🌱 Other current studies include: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
      and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
 - Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
