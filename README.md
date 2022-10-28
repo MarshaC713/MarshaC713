@@ -8,8 +8,8 @@
 I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
 
 You can find me via my links below.
-- 🌱 Currently completing Data Analysis Advanced Skills Bootcamp as sponsored by BT. Curriculum includes: Advanced Skills in: 
-     Data analysis, Forecasting, SQL, Agile, JIRA, Git, Python, AI & Machine Learning, Power BI, Power Query and Cloud Computing
+
+- 🌱 Currently completing Data Analysis Advanced Skills Bootcamp as sponsored by BT. Curriculum includes: AdvancedData analysis, Forecasting, SQL, Agile, JIRA, Git, Python, AI & Machine Learning, Power BI, Power Query and Cloud Computing
 - 🌱 Other current studies include: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
      and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
 - Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
