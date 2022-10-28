@@ -8,7 +8,12 @@
 I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
 
 You can find me via my links below.
-- 🌱 Currently studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+- 🌱 Currently completing Data Analysis Advanced Skills Bootcamp as sponsored by BT. Course curriculum includes: Advanced Data Skills in: 
+     Data analysis, Forecasting, SQL, Agile, JIRA, Git, Python, AI & Machine Learning, Power BI, Power Query and Cloud Computing
+- 🌱 Other current studies include: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (current)
+     and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL (current)
+-  Also currently completing
+- Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - 🎓 I have recently achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 -  🔭 Projects I’m currently working on are Python, AI and Machine Learning Models
@@ -35,15 +40,20 @@ You can find me via my links below.
 ## 🔧 My Current Tech Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=SQL&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=B987F1)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-PowerQuery-informational?style=flat&logo=PowerQuery&logoColor=white&color=B987F1)
+
+
+
 
 
 ## 👾 Code Editors (IDE's)
@@ -59,9 +69,9 @@ You can find me via my links below.
 - [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate tbc
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (To commence in Oct)
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL (To commence in Oct)
-- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning (Current)
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (current)
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL (current)
+- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
 - [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
