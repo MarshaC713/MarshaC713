@@ -63,10 +63,11 @@ You can find me via my links below.
 
 ## 🎓  Education
 - MSc. International Business & Development
-- BA (Hons) Economic & International Development
+- BA (Hons) Economics & International Development
 - [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate tbc
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp (current)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (current)
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL (current)
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
