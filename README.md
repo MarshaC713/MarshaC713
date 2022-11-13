@@ -20,13 +20,13 @@ You can find me via my links below.
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
 - 🖊 Follow my tech journey here on my website: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+- 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
+- 😄 Pronouns: She/Her
 - Read my blogs at: <a href="https://www.medium.com/@Marsha.C">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 - ⛓ Connect with me on    <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also love digital art, creating cute coding games using [Scratch,](https://scratch.mit.edu/projects/647244529) sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 
