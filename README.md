@@ -86,6 +86,10 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [Considering Data Redundancy Solutions as Hospital Computers Meltdown During Heatwave!](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 📚 My Reading List :
+- [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
+- [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+- [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
 
 ## 📈 :fire: My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
