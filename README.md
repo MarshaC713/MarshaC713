@@ -115,3 +115,4 @@ In addition to software engineering I also write a blog chronicling my journey a
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 -->
 
+![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
