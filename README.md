@@ -114,6 +114,6 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 -->
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
