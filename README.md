@@ -5,7 +5,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis.
+I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. I currently work in Data Analysis. You can also Follow my tech journey here on my website where i showcase visuals of my projects: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
 
 You can find me via my links below.
 
@@ -19,7 +19,6 @@ You can find me via my links below.
 - 🌺 I'm currently a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
-- 🖊 Follow my tech journey here on my website: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - Read my blogs at: <a href="https://www.medium.com/@Marsha.C">
