@@ -119,5 +119,5 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
 
-## 🛩 🏙 View My Skyline:
+## 🛩 🏙 View My 3D Skyline:
 [Marsha's 3D GitHub Contributions Skyline](https://skyline.github.com/MarshaC713/2022)
