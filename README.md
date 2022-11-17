@@ -1,5 +1,6 @@
 
-![Blue Violet Neon Best Games YouTube Thumbnail (6)](https://user-images.githubusercontent.com/82414822/180906551-e6e3b60f-258d-431f-b185-7890e7250862.png)
+![Blue Violet Neon Best Games YouTube Thumbnail (6)](https://user-images.githubusercontent.com/82414822/202452790-831abfdc-13b5-42e0-910b-6511a5bc0810.png)
+
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
