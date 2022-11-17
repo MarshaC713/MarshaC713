@@ -90,6 +90,8 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
+- [She's In CTRL: How women can take back tech - Anne-Marie Imafidon](https://www.waterstones.com/book/shes-in-ctrl/anne-marie-imafidon/9781787635029)
+- [Atomic Habits - James Clear](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=asc_df_1847941834/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=&hvnetw=g&hvrand=1043727984496671668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-551566274852&psc=1&th=1&psc=1)
 
 
 ## 📈 :fire: My GitHub Stats
