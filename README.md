@@ -5,7 +5,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. At present I work in Data Analysis. You can also Follow my tech journey here on my website where i showcase visuals of my projects: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, and AI and technological innovation. At present I work in Data Analysis. You can also Follow my tech journey here on my website where I showcase visuals of my projects: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
 
 You can find me via my links below.
 
