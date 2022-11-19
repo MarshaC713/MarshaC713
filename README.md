@@ -57,7 +57,7 @@ Summary:
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=B987F1)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="300"/>
 </div>
 
 ## 🎓  Education
