@@ -28,7 +28,7 @@ Summary:
   </a>     Read my blogs at: <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 
 
-## 🚀 My Featured Project
+## 👩🏾‍🔬 Preview My Featured Project
 
 <div align="center">
   <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="500"/>
