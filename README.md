@@ -28,10 +28,10 @@ Summary:
   </a>     Read my blogs at: <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 
 
-
+## 🚀 My Featured Project
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="500"/>
 </div>
 
 ## 🔧 My Current Tech Skills
@@ -49,16 +49,16 @@ Summary:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PowerQuery-informational?style=flat&logo=PowerQuery&logoColor=white&color=B987F1)
 
-
-
-
-
 ## 👾 Code Editors (IDE's)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Idle-informational?style=flat&logo=Idle&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=B987F1)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="200"/>
+</div>
 
 ## 🎓  Education
 - MSc. International Business & Development
@@ -116,7 +116,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
 -->
-**Note:** Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** Most Used languages is only a metric of the languages my public code consists of and doesn't reflect full experience or skill level.
 
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
 
