@@ -13,7 +13,7 @@ Summary:
 - 🌱 Currently completing The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🌱 Other current studies include: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
      and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
-- Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+- 🌱 Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - 🎓 I have recently achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 -  🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
