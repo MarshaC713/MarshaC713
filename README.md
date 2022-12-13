@@ -35,13 +35,14 @@ Summary:
   <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="450"/>
 </div>
 
+<div align="top right">
+  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="450"/>
+</div>
 <div align="left">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="450"/>
 </div><br>
 
-<div align="left">
-  <img src="https://imgflip.com/gif/747t58/gif-maker.gif" width="450"/>
-</div>
+
 
 ## 🔧 My Current Tech Skills
 
