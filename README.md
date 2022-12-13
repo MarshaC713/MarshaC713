@@ -28,6 +28,7 @@ Summary:
   </a>     Read my blogs at: <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 
 
+
 ## 👩🏾‍🔬 Preview My Featured Projects
 
 <div align="left">
@@ -36,7 +37,12 @@ Summary:
 
 <div align="left">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="450"/>
+</div><br>
+
+<div align="left">
+  <img src="https://imgflip.com/gif/747t58/gif-maker.gif" width="450"/>
 </div>
+
 ## 🔧 My Current Tech Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
