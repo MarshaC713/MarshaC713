@@ -76,9 +76,9 @@ Summary:
 - [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate tbc
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp (current)
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python (current)
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL (current)
+- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp 
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL 
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
