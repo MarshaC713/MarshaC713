@@ -22,7 +22,7 @@ Summary:
 - ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also love digital art, creating cute coding games using [Scratch,](https://scratch.mit.edu/projects/647244529) sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+- ⚡ Fun fact: I also love digital art, building projects, my first ever attempt atcoding was building a computer game using [Scratch,](https://scratch.mit.edu/projects/647244529) .  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 - ⛓ Connect with me on    <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>     Read my blogs at: <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
