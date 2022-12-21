@@ -142,4 +142,9 @@ In addition to software engineering I also write a blog chronicling my journey a
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛩 🏙 View My 3D Skyline:
-[Marsha's 3D GitHub Contributions Skyline](https://skyline.github.com/MarshaC713/2022)
+
+
+
+<div align="left"><a href="https://skyline.github.com/MarshaC713/2022">
+<img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="450"/></a>
+</div>
