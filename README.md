@@ -31,28 +31,26 @@ Summary:
 
 ## 👩🏾‍🔬 Preview My Featured Projects
 
-<div align="left">
-  <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="450"/>
+<div align="left"> <a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
+     <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="450"/></a>
 </div>
 
-<div align="top right">
-  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="450"/>
+<div align="top right"><a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
+  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="450"/></a>
 </div>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="450"/>
+<div align="left"><a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
+  <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="450"/></a>
 </div><br>
 
 
-<div align="left">
-  <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="450"/>
+<div align="left"><a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python"
+  <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="450"/></a>
 </div><br>
 
-<div align="left">
-<img src="https://media.giphy.com/media/Mglb3hNCWL0I8o2jDB/giphy.gif" width="450"/>
-</div><br>
-
-
+<div align="left"><a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Python-Project"
+<img src="https://media.giphy.com/media/Mglb3hNCWL0I8o2jDB/giphy.gif" width="450"/></a>
+</div>
 
 
 ## 🔧 My Current Tech Skills
