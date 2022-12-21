@@ -44,11 +44,11 @@ Summary:
 </div><br>
 
 
-<div align="left"><a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python"
+<div align="left"><a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="450"/></a>
 </div><br>
 
-<div align="left"><a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Python-Project"
+<div align="left"><a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Python-Project">
 <img src="https://media.giphy.com/media/Mglb3hNCWL0I8o2jDB/giphy.gif" width="450"/></a>
 </div>
 
