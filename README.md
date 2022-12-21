@@ -54,6 +54,11 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 <img src="https://media.giphy.com/media/Mglb3hNCWL0I8o2jDB/giphy.gif" width="450"/></a>
 </div>
 
+<div align="left"><a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
+<img src="https://media.giphy.com/media/xhcRZ7TATKCb1z08EN/giphy.gif" width="450"/></a>
+</div>
+
+
 
 ## 🔧 My Current Tech Skills
 
