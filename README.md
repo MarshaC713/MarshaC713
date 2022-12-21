@@ -55,7 +55,7 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 </div>
 
 <div align="left"><a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
-<img src="https://media.giphy.com/media/xhcRZ7TATKCb1z08EN/giphy.gif" width="450"/></a>
+<img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="450"/></a>
 </div>
 
 
