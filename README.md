@@ -8,7 +8,14 @@
 
 I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
 
-## <img width="72" alt="image" src="https://user-images.githubusercontent.com/82414822/209590733-276738fc-e46f-4778-a280-2d4b9b1abffd.png"> My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+## My Portfolio: 
+<a href="https://www.marshacastello.com/">
+<img src="https://user-images.githubusercontent.com/82414822/209590733-276738fc-e46f-4778-a280-2d4b9b1abffd.png" width="42"/></a>
+<a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+
+
+
+
 
 ## 📇 Summary:
 
