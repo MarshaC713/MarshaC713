@@ -8,7 +8,7 @@
 
 I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
 
-## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/My%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
 
 ## 📇 Summary:
 
@@ -25,9 +25,11 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 - 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also love digital art, building projects, my first ever attempt atcoding was building a computer game using [Scratch,](https://scratch.mit.edu/projects/647244529) .  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
-- ⛓ Connect with me on    <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
+
+## ⛓  Connect with me at:
+1.  <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>     Read my blogs at: <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
+2.  <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
 
 
 
