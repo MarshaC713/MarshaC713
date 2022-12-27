@@ -6,7 +6,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying **Cloud** Computing, **Python, Data, AI & ML** and **SQL**.  I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM **Project Management** certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. I work in Data Analysis and have a wealth of transferable Data Analytical skills. 
+I am a software engineer trainee studying **Cloud** Computing, **Python, Data, AI & ML** and **SQL**.  I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. I work in Data Analysis and have a wealth of transferable Data Analytical skills. 
 
 ## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
@@ -23,7 +23,7 @@ I am a software engineer trainee studying **Cloud** Computing, **Python, Data, A
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
 - 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
-- ❓ Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
+- ❓ Ask me about **Azure** Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
 - ⚡ **Fun fact:** I also love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
