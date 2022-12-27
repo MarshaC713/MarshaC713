@@ -8,29 +8,28 @@
 
 I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
 
-## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
+## <img width="72" alt="image" src="https://user-images.githubusercontent.com/82414822/209590733-276738fc-e46f-4778-a280-2d4b9b1abffd.png"> My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a>
 
 ## 📇 Summary:
 
 - 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🎓 I have also recently completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
      and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
-- 🌱 Soon to be studying for [Microsoft Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/certifications/exams/az-204)
-- 🎓 I have recently achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- 🎓 I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- 🎓 In addition, I have also recently graduated from [Firebrand Python Software Engineering Bootcamp](https://firebrand.training/uk)
+- 🎓 I have also recently achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- 🎓 Plus, I have also recently achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 -  🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
-- 🌺 I am also a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
+- 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
-- ❓  Ask me about Azure Cloud Computing, Python, and transitioning into tech
-- 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
+- ❓  Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also love digital art, building projects, my first ever attempt atcoding was building a computer game using [Scratch,](https://scratch.mit.edu/projects/647244529) .  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
-## ⛓  Connect with me at:
+## 🤝 Connect with me at:
 1.  <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 2.  <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
-
+3. 📫 Check out all of my social media links [here.](https://linktr.ee/marshacastello)
 
 
 ## 👩🏾‍🔬 Featured Projects (Click image)
