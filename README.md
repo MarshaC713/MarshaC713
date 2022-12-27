@@ -25,7 +25,7 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓  Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also love digital art, building projects, my first ever attempt atcoding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529) .  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+- ⚡ Fun fact: I also love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 ## 🤝 Connect with me at:
 1.  <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
