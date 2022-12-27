@@ -6,13 +6,13 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying **Cloud** Computing, **Python, Data, AI** and **SQL**.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
+I am a software engineer trainee studying **Cloud** Computing, **Python, Data, AI & ML** and **SQL**.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
 
 ## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
 
 
-## 📇 Summary:
+## 📇  Summary:
 
 - 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python & Apps,  [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL and [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
