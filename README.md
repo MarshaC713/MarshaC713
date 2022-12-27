@@ -20,10 +20,10 @@ I am a software engineer trainee studying **Cloud** Computing, **Python, Data, A
 - 🎓 Achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 Achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - 🎓 Completed [SheCodes](https://www.shecodes.io/graduates/19479-marsha-marsha) Introduction to Coding (Web Development)
--  🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
-- 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
+- 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
+- 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
-- ❓  Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
+- ❓ Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
 - ⚡ **Fun fact:** I also love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  I also enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals and the Theatre! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
