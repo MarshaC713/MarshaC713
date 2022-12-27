@@ -6,7 +6,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
+I am a software engineer trainee studying **Cloud** Computing, **Python, Data, AI** and **SQL**.  I hold a MSc. International Business and Development from the University of London, alongside PRINCE2 Practitioner and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. At present I work in Data Analysis. 
 
 ## My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
@@ -15,8 +15,7 @@ I am a software engineer trainee studying Cloud Computing, Python, Data and SQL.
 ## 📇 Summary:
 
 - 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
-- 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
-     and [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
+- 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python & Apps,  [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL and [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
 - 🎓 Graduated from [Firebrand Python Software Engineering Bootcamp](https://firebrand.training/uk)
 - 🎓 Achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 Achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
