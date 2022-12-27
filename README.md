@@ -19,6 +19,7 @@ I am a software engineer trainee studying **Cloud** Computing, **Python, Data, A
 - 🎓 Graduated from [Firebrand Python Software Engineering Bootcamp](https://firebrand.training/uk)
 - 🎓 Achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - 🎓 Achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- 🎓 Completed [SheCodes](https://www.shecodes.io/graduates/19479-marsha-marsha) Introduction to Coding (Web Development)
 -  🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
 - 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
