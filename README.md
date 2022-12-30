@@ -42,7 +42,7 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 1.  <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 2.  <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
-3.  All of my social media links in my linktree [here.](https://linktr.ee/marshacastello)
+3.  Via my linktree [here.](https://linktr.ee/marshacastello)
 
 
 ## 👩🏾‍🔬 Featured Projects (Click image)
