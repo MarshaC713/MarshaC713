@@ -6,7 +6,7 @@
 
 ## Hi, There! I am Marsha Castello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer trainee studying:
+I am a python software engineer graduate studying:
 - **Cloud Computing** 
 - **Data**
 - **Python**
