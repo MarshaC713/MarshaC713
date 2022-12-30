@@ -184,5 +184,5 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 
-https://user-images.githubusercontent.com/82414822/210108348-680c5d89-6faa-402c-8960-ebde5d4e7f80.mov 
+https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
