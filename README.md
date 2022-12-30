@@ -11,7 +11,7 @@ I am a python software engineer graduate studying:
 - **Data**
 - **Python**
 - **SQL**
-- **AI & Machine Learning **  
+- **AI & Machine Learning**  
 
 ### 💻 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
