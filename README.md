@@ -4,8 +4,13 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
+<img align="left" width="350" height="360" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/>
+
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM Project Management certification. 
+I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation.
+I work in Data Analysis, have just completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills.
 I am a python software engineer graduate studying:
 - **Cloud Computing** 
 - **Data**
@@ -15,9 +20,7 @@ I am a python software engineer graduate studying:
 
 ### 💻 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
-- I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM Project Management certification. 
-- I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation.
-- I work in Data Analysis, have just completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills. 
+ 
 
 
 
