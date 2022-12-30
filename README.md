@@ -1,6 +1,6 @@
 
-![Blue Violet Neon Best Games YouTube Thumbnail (9)](https://user-images.githubusercontent.com/82414822/209595686-4f5b26a4-56e7-4535-8dac-27e6078f2135.png)
 
+![MC Github Banner2-min](https://user-images.githubusercontent.com/82414822/210113406-a21adf22-316a-4b86-9ecd-3e8a7be9d80b.png)
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
@@ -187,4 +187,5 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
+
 
