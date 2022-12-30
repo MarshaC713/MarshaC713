@@ -20,13 +20,9 @@ I am a python software engineer graduate studying:
 
 ### 💻 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
- 
 
 
-
-
-
-## 📇  Summary:
+## 📑 Summary:
 
 - 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Python & Apps,**  [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Data & SQL** and [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to **AI & Machine Learning**
@@ -110,9 +106,12 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Tools-Idle-informational?style=flat&logo=Idle&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=B987F1)
 
-<div align="left">
-  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="300"/>
-</div>
+ ## 🛩 🏙 View My 3D Skyline:
+
+ <p style="display:flex">
+<img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="600" height="300"/></a>
+<img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="300"/>
+  </p>
 
 ## 🎓  Education
 - MSc. International Business & Development
@@ -173,11 +172,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 -->
 **Note:** Most Used languages is only a metric of the languages my public code consists of and doesn't reflect full experience or skill level.
 
-## 🛩 🏙 View My 3D Skyline:
 
-<div align="left"><a href="https://skyline.github.com/MarshaC713/2022">
-<img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="450"/></a>
-</div>
 
 
 ## 🐍 Interactive Contribution Grid:
