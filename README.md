@@ -42,11 +42,14 @@ I love digital art, building projects, my first ever attempt at coding was build
 I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals, Theatre and the arts! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 ## 📫 Connect with me at:
-1.  <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-2.  <a href="https://www.medium.com/@Marsha.C"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/> </a>
-3.  Via my linktree [here.](https://linktr.ee/marshacastello)
-
+<p style="display:flex">
+<a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
+    <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="50" alt="LinkedIn Badge"/>
+ <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="50" alt="Medium Badge"/> </a>
+    
+<a href="https://linktr.ee/marshacastello">
+<img src="https://user-images.githubusercontent.com/82414822/210117799-dc43135a-8fc6-43a9-8f30-e97e3b52dbdb.png" width="40" alt="Linktree badge"/>
+    </p>
 
 ## 👩🏾‍🔬 Featured Projects (Click image)
     
