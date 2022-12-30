@@ -92,7 +92,10 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PowerQuery-informational?style=flat&logo=PowerQuery&logoColor=white&color=B987F1)
-
+![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=JIRA&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-AGILE-informational?style=flat&logo=AGILE&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-Data-informational?style=flat&logo=Data&logoColor=white&color=B987F1)
+    
 ## 👾 Code Editors (IDE's)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
