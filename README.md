@@ -15,7 +15,9 @@ I am a python software engineer graduate studying:
 
 ### 💻 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://img.shields.io/badge/%20website%3A-marshacastello.com-blue" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
-I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM Project Management certification. I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation. I work in Data Analysis, have just completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills. 
+- I hold a MSc. International Business and Development from the University of London, alongside **PRINCE2 Practitioner** and APM Project Management certification. 
+- I am passionate about emerging ethical and sustainable technologies, AI & ML and technological innovation.
+- I work in Data Analysis, have just completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills. 
 
 
 
