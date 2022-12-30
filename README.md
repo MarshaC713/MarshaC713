@@ -83,8 +83,8 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=SQL&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=B987F1)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=B987F1)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=python&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=B987F1)
@@ -95,6 +95,8 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=JIRA&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-AGILE-informational?style=flat&logo=AGILE&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Data-informational?style=flat&logo=Data&logoColor=white&color=B987F1)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=B987F1)
+
     
 ## 👾 Code Editors (IDE's)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
