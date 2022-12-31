@@ -28,7 +28,7 @@ In addition I am a python software engineer graduate studying:
 
 
 ## 📑 Summary:
-
+- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
 - 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
 - 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Python & Apps,**  [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Data & SQL** and [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to **AI & Machine Learning**
 - 🎓 Graduated from [Firebrand Python Software Engineering Bootcamp](https://firebrand.training/uk)
@@ -37,7 +37,6 @@ In addition I am a python software engineer graduate studying:
 - 🎓 Completed [SheCodes](https://www.shecodes.io/graduates/19479-marsha-marsha) Introduction to Coding (Web Development)
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
 - 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
-- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, or Cyber/Cloud Security
 - ❓ Ask me about **Azure** Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
     
