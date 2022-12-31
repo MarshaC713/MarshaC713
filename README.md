@@ -13,9 +13,9 @@ I am a Data Analyst, Sustainable Tech Enthusiast & Love Innovation!
 </h3> 
  
 
-I hold a MSc. International Business & Development from the University of London, alongside **PRINCE2 Practitioner** Project Management certification and experience. 
+I hold a MSc. International Business & Development, alongside **PRINCE2 Practitioner** Project Management certification and experience. 
 I am passionate about ethical and sustainable technological innovation, and AI & ML to propel positive social change.
-I am also a Data Analysis, and have completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills.
+I am also a Data Analysis, have completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills.
 
 In addition I am a python software engineer graduate studying:
 - **Cloud Computing** 
