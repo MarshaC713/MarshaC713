@@ -4,7 +4,7 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://linktr.ee/marshacastello"><img align="left" width="350" height="450" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
+<a href="https://linktr.ee/marshacastello"><img align="left" width="450" height="550" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -23,9 +23,7 @@ I am also a python software engineer graduate studying:
 - **Python**
 - **SQL**
 - **AI & Machine Learning**  
-
-
-### 👀 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://user-images.githubusercontent.com/82414822/210120688-5bbed566-7a67-49d3-b5c6-794fa4b0cf82.png" width="70" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
+### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://user-images.githubusercontent.com/82414822/210120688-5bbed566-7a67-49d3-b5c6-794fa4b0cf82.png" width="78" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
 
 
