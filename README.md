@@ -53,7 +53,14 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
     
 <a href="https://linktr.ee/marshacastello">
 <img src="https://user-images.githubusercontent.com/82414822/210120363-212819d3-7cae-4d65-a1fa-6e5d0f1a8d96.png" width="57" alt="Linktree badge"/>
-    </p>
+ 
+ <a href="https://www.marshacastello.com/">
+<img src="https://user-images.githubusercontent.com/82414822/210136144-beafa863-9876-45e0-91b6-1db60bba2b24.jpg" width="57" alt="Linktree badge"/>
+
+ <a href="https://dev.to/marshac713">
+<img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="57" alt="Linktree badge"/>
+  
+  </p>
 
 ## 👩🏾‍🔬 Featured Projects (Click image)
     
