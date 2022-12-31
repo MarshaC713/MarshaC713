@@ -55,7 +55,7 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
  <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="50" alt="Medium Badge"/> </a>
     
 <a href="https://linktr.ee/marshacastello">
-<img src="https://user-images.githubusercontent.com/82414822/210120145-dde01577-28ca-4ee2-b2fe-d4be2761bec6.png" width="50" alt="Linktree badge"/>
+<img src="https://user-images.githubusercontent.com/82414822/210120363-212819d3-7cae-4d65-a1fa-6e5d0f1a8d96.png" width="47" alt="Linktree badge"/>
     </p>
 
 ## 👩🏾‍🔬 Featured Projects (Click image)
