@@ -25,7 +25,7 @@ I am also a python software engineer graduate studying:
 - **AI & Machine Learning**  
 
 
-### 💻 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://user-images.githubusercontent.com/82414822/210120688-5bbed566-7a67-49d3-b5c6-794fa4b0cf82.png" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
+### 👀 My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://user-images.githubusercontent.com/82414822/210120688-5bbed566-7a67-49d3-b5c6-794fa4b0cf82.png" width="70" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
 
 
 
