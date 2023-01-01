@@ -4,7 +4,7 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://linktr.ee/marshacastello"><img align="left" width="500" height="800" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
+<a href="https://linktr.ee/marshacastello"><img align="left" width="500" height="820" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -26,7 +26,9 @@ I am a Data Analyst, Sustainable Tech Enthusiast & Love Art & Culture!
 - 😄 Pronouns: She/Her
 ### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="78"/></a>
 
+
  
+
  ## 🎓  Education
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
@@ -43,7 +45,7 @@ I am a Data Analyst, Sustainable Tech Enthusiast & Love Art & Culture!
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
-   
+
 ## 🧠 Interests:
 I love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  
 I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals, Theatre and the arts! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
