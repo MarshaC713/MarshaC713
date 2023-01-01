@@ -15,13 +15,13 @@
 </p>
 
 
-- 🤔 Looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
-- ⏫ I am committed to Continuous Professional Development
-- 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create real world positive impact and solutions.
+- 🤔 Looking for help securing my first software engineering/solution architect role in the fields of Cloud Computing/Security, Python, or Data Engineering 
+- ⏫ I am committed to Continuous Professional Development and a member of professional bodies BCS & CMI
+- 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create lasting real world positive impact and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring and Networking Programme.
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, Data and AI and Machine Learning Models
-- ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
+- ❓ Ask me about **Cloud Computing, Coding, Data,** and Tech Careers
 - 😄 Pronouns: She/Her
 
 
@@ -50,6 +50,10 @@
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
 ---
+
+<details> 
+  <summary><h2> 🤗 Additional info (Expand for more) </h2></summary>
+  
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
 - Coaching 💬 👂
 - First Aid ⛑
@@ -68,7 +72,9 @@ I love:
 - Live music & music festivals 🎫 🎶
 - Travel and exploring different cultures, architecture, landscapes and adventures 🚁
 - Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
-- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️
+- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
+</details> 
+
 
 ---
 
