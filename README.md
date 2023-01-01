@@ -51,32 +51,6 @@
 
 ---
 
-<details> 
-  <summary><h2> 🤗 Additional info (Expand for more) </h2></summary>
-  
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
-- Coaching 💬 👂
-- First Aid ⛑
-- Mental Health First Aider 🛟
----
-
-### 🧠 Interests:
-I love:
-- All things Tech 📟
-- Meeting New People 🤝
-- Tech Conferences, meetups & events 🪅
-- Art in all its mediums 🎨 🎭 📖 🎶
-- Problem solving and reverse engineering 🛠
-- Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
-- Sci-fi and fantasy movies particularly Marvel 🍿
-- Live music & music festivals 🎫 🎶
-- Travel and exploring different cultures, architecture, landscapes and adventures 🚁
-- Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
-- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
-</details> 
-
-
----
 
 ### 📫 Connect with me at:
 <p style="display:flex">
@@ -97,7 +71,8 @@ I love:
   💬 Please feel free to reach out to me with any opportunities/feedback/collabotation requests!
   </p>
 
-  --- 
+
+---
   
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
@@ -212,9 +187,41 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [Considering Data Redundancy Solutions as Hospital Computers Meltdown During Heatwave!](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
+
 --- 
- 
-### 📒 My Reading List :
+
+<details> 
+  <summary><h2> 🤗 Expand For Further: Skills, Volunteering & Hobbies </h2></summary>
+  
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
+- Coaching 💬 👂
+- First Aid ⛑
+- Mental Health First Aider 🛟
+---
+
+### 🧠 Interests:
+I love:
+- All things Tech 📟
+- Meeting New People 🤝
+- Tech Conferences, meetups & events 🪅
+- Art in all its mediums 🎨 🎭 📖 🎶
+- Problem solving and reverse engineering 🛠
+- Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
+- Sci-fi and fantasy movies particularly Marvel 🍿
+- Live music & music festivals 🎫 🎶
+- Travel and exploring different cultures, architecture, landscapes and adventures 🚁
+- Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
+- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
+</details> 
+
+
+---
+
+
+
+ <details> 
+  <summary><h2> 📒 Expand For More: My Reading List & Resources </h2></summary>
+
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
@@ -223,6 +230,8 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months
 by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/1118509234/ref=asc_df_1118509234/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=13083926543021073372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-432345870946&psc=1&th=1&psc=1)
 
+ </details>    
+   
 ---
  
  
