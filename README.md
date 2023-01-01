@@ -22,7 +22,7 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=***+Click+here+to+view+my+portfolio+***)](https://www.marshacastello.com/s-projects-side-by-side)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=*+Click+here+for+my+portfolio+*)](https://www.marshacastello.com/s-projects-side-by-side)
 
 
 ---
