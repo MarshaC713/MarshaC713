@@ -168,9 +168,9 @@ I love:
     <a href="#"><img alt="Idle" src="https://img.shields.io/badge/-Idle-F7DF1E?logo=Idle&logoColor=white"></a>
     <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/-JIRA-4D97FF.svg?logo=JIRA&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-F0000.svg?logo=OpenCV&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-FF0000?logo=OpenCV&logoColor=white"></a>
      <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-34A853.svg?logo=Power-Query&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-FE7A16?logo=Pycharm&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-34A853.svg?logo=Pycharm&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     </p>
