@@ -19,8 +19,8 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
 - 😄 Pronouns: She/Her
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=Click+to+view+my+portfolio+>>>)](https://git.io/typing-svg)
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=Click+to+view+my+portfolio+>>>)](https://www.marshacastello.com/s-projects-side-by-side)
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="85"/></a>
 
 ---
 
@@ -48,7 +48,7 @@ I love:
 - All things Tech!
 - Meeting New People,
 - Art in all its mediums particularly digital,
-- Problem solving, 
+- Problem solving and reverse engineering, 
 - Coding and building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529). 
 - Sci-fi and fantasy movies particularly Marvel
 - Live music & music festivals, 
