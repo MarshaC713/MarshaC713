@@ -14,6 +14,7 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - ⏫ I am committed to Continuous Professional Development
 - 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create real world positive impact and solutions.
 - 🤔 Looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
+- 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring and Networking Programme.
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, Data and AI and Machine Learning Models
 - ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
@@ -36,7 +37,7 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Avado](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Data Analyst Advanced Skills Bootcamp (Advanced Data Anaysis,Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery)
+- [Avado](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Data Analyst Advanced Skills Bootcamp (Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery)
 - [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
 - [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
 - [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
