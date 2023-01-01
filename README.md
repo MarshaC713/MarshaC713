@@ -155,10 +155,10 @@ I love:
   </p>
   <h3>💻 Software and Tools</h3>
   <p>
-    <a href="#"><img alt="AGILE" src="https://img.shields.io/badge/-AGILE-FE7A16?logo=AGILE&logoColor=white"></a>
+    <a href="#"><img alt="AGILE" src="https://img.shields.io/badge/-AGILE-F7DF1E?logo=AGILE&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/-Atom-FE7A16?logo=Atom&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/-microsoft%20azure-FE7A16?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/-Atom-0A9EDC.svg?logo=Atom&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-FE7A16?logo=microsoft-azure&logoColor=white"></a>
      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-FE7A16?logo=Docker&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
