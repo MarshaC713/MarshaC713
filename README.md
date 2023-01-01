@@ -9,7 +9,7 @@
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h3> 
-Expereienced Data Analyst, Sustainable Tech Advocate & Art & Culture Enthusiast!
+Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast!
 </h3> 
  
 
