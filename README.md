@@ -12,10 +12,10 @@
 Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast!
 
 - ⏫ I am committed to Continuous Professionel Development
-- 🌍 Passionate about ethical AI & ML and sustainable technological innovation to propel positive social change.
+- 🌍 Passionate about ethical AI & ML and sustainable technological innovation to create real world positive impact and solutions.
 - 🤔 Looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring and Networking Programme.
-- 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
+- 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, Data and AI and Machine Learning Models
 - ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
 - 😄 Pronouns: She/Her
 ### Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="85"/></a>
@@ -27,12 +27,12 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- Microsoft Azure Developer Associate taught classes and labs.
+- Microsoft Azure Developer Associate completed taught classes and labs.
 - [Firebrand Python Software Engineering Bootcamp Graduate](https://firebrand.training/uk)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp
-- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
+- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
 - [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
 - [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
