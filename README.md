@@ -4,7 +4,7 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="400" height="550" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="420" height="750" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -15,7 +15,7 @@
 </p>
 
 
-- 🤔 Looking for help securing my first software engineering/solution architect role in the fields of Cloud Computing/Security, Python, or Data Engineering 
+- 🤔 Looking for new opportunities in the fields of Cloud Computing/Security, Python, or Data Engineering 
 - ⏫ I am committed to Continuous Professional Development and a member of professional bodies BCS & CMI
 - 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create lasting real world positive impact and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
@@ -28,26 +28,6 @@
 
 <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3"/></a>
 
-
-
----
-
-
- ### 🎓  Education:
-- MSc. International Business & Development
-- BA (Hons) Economics & International Development
-- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- Microsoft Azure Developer Associate completed taught classes and labs.
-- [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
-- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
-- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
-- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
-- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
-- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
-- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
 ---
 
@@ -73,6 +53,24 @@
 
 
 ---
+   
+
+ ### 🎓  Education:
+- MSc. International Business & Development
+- BA (Hons) Economics & International Development
+- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- Microsoft Azure Developer Associate completed taught classes and labs.
+- [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
+- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
+- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
+- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
+- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
+- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
+- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
+- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
+
   
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
