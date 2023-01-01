@@ -15,8 +15,8 @@
 </p>
 
 
-- 🤔 Looking for new Software Engineering / Solution Architect opportunities in the fields of Cloud Computing / Security, Python, or Data Engineering 
-- ⏫ I am committed to continuous professional development and a member of professional bodies The BCS, and CMI
+- 🤔 I am looking for new Software Engineering / Solution Architect opportunities in the fields of Cloud Computing / Security, Python, or Data Engineering 
+- ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 - 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create lasting real world positive impact and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring and Networking Programme.
