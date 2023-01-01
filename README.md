@@ -158,18 +158,18 @@ I love:
     <a href="#"><img alt="AGILE" src="https://img.shields.io/badge/-AGILE-F7DF1E?logo=AGILE&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/-Atom-0A9EDC.svg?logo=Atom&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-FE7A16?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/-Azure-0A9EDC.svg?logo=microsoft-azure&logoColor=white"></a>
      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-FE7A16?logo=Docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-21759B??logo=Docker&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-FE7A16?logo=Google-Colab&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Idle" src="https://img.shields.io/badge/-Idle-FE7A16?logo=Idle&logoColor=white"></a>
-    <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/-JIRA-FE7A16?logo=JIRA&logoColor=white"></a>
+    <a href="#"><img alt="Idle" src="https://img.shields.io/badge/-Idle-F7DF1E?logo=Idle&logoColor=white"></a>
+    <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/-JIRA-4D97FF.svg?logo=JIRA&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-FE7A16?logo=OpenCV&logoColor=white"></a>
-     <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-FE7A16?logo=Power-Query&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-F0000.svg?logo=OpenCV&logoColor=white"></a>
+     <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-34A853.svg?logo=Power-Query&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-FE7A16?logo=Pycharm&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
