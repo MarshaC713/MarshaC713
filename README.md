@@ -33,7 +33,7 @@
 ---
 
 
- ### 🎓  Education
+ ### 🎓  Education:
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
@@ -50,7 +50,7 @@
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
 ---
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
 - Coaching
 - First Aid
 - Mental Health First Aider
