@@ -61,11 +61,11 @@ I love:
 - All things Tech 📟
 - Meeting New People 🤝
 - Tech Conferences, meetups & events 🪅
-- Art in all its mediums 🎨 🎭
+- Art in all its mediums 🎨 🎭 📖 🎶
 - Problem solving and reverse engineering 🛠
 - Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
 - Sci-fi and fantasy movies particularly Marvel 🍿
-- Live music & music festivals 🎫
+- Live music & music festivals 🎫 🎶
 - Travel and exploring different cultures, architecture, landscapes and adventures 🚁
 - Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
 - I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️
