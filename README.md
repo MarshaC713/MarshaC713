@@ -13,18 +13,18 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 </h3> 
  
 
-- 🎓 MSc. International Business & Development Postgraduate from The University of London
+- 🎓 MSc. International Business & Development **Postgraduate** from The University of London
 - 📜 **PRINCE2 Practitioner** Project Management certification and experience. 
-- 🌥 Microsoft Certified in: Azure Fundamentals also completed taught classes and labs for Microsoft Developer Associate.
+- 🌥 **Microsoft Certified in: Azure Fundamentals**, also completed taught classes and labs for Microsoft Developer Associate.
 - 🌍 Passionate about ethical and sustainable technological innovation, and AI & ML to propel positive social change.
-- 📊 Experienced Data Analyst, continuously updating skills. Have recently graduated from an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Advanced Data Analytical skills.
-- Python Software Engineer graduate studying: **Python**, **Cloud Computing,** **Data,**, **SQL** and **AI & Machine Learning**  
+- 📊 **Experienced Data Analyst**, continuously updating skills. Have recently graduated from an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Advanced Data Analytical skills.
+- **Python Software Engineer graduate** studying: Python, Cloud Computing,Data,SQL and **AI & Machine Learning**  
 - 🌺 Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
 - 🤔 I am looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
-- ❓ Ask me about **Azure** Cloud Computing, Python, Data, and transitioning into tech
+- ❓ Ask me about Azure Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
-### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="78"/></a>
+### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="85"/></a>
 
 
  
