@@ -31,11 +31,11 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - [Firebrand Python Software Engineering Bootcamp Graduate](https://firebrand.training/uk)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp
+- [Avado](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Data Analyst Advanced Skills Bootcamp
 - [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
-- [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
+- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
+- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
+- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
