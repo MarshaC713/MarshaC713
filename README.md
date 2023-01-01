@@ -37,7 +37,7 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Avado](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Data Analyst Advanced Skills Bootcamp (Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery)
+- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
 - [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
 - [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
 - [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
