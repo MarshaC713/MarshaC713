@@ -53,7 +53,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
 - Coaching 💬 👂
 - First Aid ⛑
-- Mental Health First Aider ⛑
+- Mental Health First Aider 🛟
 ---
 
 ### 🧠 Interests:
@@ -63,10 +63,10 @@ I love:
 - Tech Conferences, meetups & events 🪅
 - Art in all its mediums 🎨 🎭
 - Problem solving and reverse engineering 🛠
-- Coding and building projects, my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾
+- Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
 - Sci-fi and fantasy movies particularly Marvel 🍿
 - Live music & music festivals 🎫
-- Travel and exploring different cultures, architecture and landscapes 🚁
+- Travel and exploring different cultures, architecture, landscapes and adventures 🚁
 - Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
 - I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️
 
@@ -86,9 +86,11 @@ I love:
 
  <a href="https://dev.to/marshac713">
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="57" alt="Dev.to badge"/>
-  
+    </p>
+    <p>
+  💬 Please feel free to reach out to me with any opportunities/feedback/collabotation requests!
   </p>
-💬 Please feel free to reach out to me with any opportunities/feedback/collabotation requests!
+
   --- 
   
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
