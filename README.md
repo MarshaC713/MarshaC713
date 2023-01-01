@@ -15,12 +15,12 @@
 </p>
 
 
-- 🤔 Looking for new Software Engineering/Solution Architect opportunities in the fields of Cloud Computing/Security, Python, or Data Engineering 
-- ⏫ I am committed to Continuous Professional Development and a member of professional bodies BCS & CMI
+- 🤔 Looking for new Software Engineering / Solution Architect opportunities in the fields of Cloud Computing / Security, Python, or Data Engineering 
+- ⏫ I am committed to continuous professional development and a member of professional bodies The BCS, and CMI
 - 🌍 Passionate about ethical AI & ML, including sustainable technological innovation to create lasting real world positive impact and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring and Networking Programme.
-- 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, Data and AI and Machine Learning Models
+- 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently working on include: Python, Data and AI and Machine Learning Models
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and Tech Careers
 - 😄 Pronouns: She/Her
 
