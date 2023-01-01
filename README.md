@@ -197,7 +197,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 ---
     
-### 📣 Sound Clip Outro Banner (Sound on)
+### 📣 Interactive Quotable (Sound on)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
 
