@@ -154,7 +154,7 @@ I love:
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-07405e?.svg?logo=Matplotlib&logoColor=white"></a>
     <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikitlearn-FF6F00.svg?logo=Scikitlearn&logoColor=white"></a>
   </p>
-  <h3>🗄️ Databases and Cloud Hosting</h3> 
+  <h3>🗄️ Databases and Cloud Hosting</h3>  
   <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
