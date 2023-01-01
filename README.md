@@ -48,11 +48,11 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 
 ### 🧠 Interests:
 I love:
-- All things Tech!
-- Meeting New People,
-- Art in all its mediums particularly digital,
-- Problem solving and reverse engineering, 
-- Coding and building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529). 
+- All things Tech
+- Meeting New People
+- Art in all its mediums
+- Problem solving and reverse engineering 
+- Coding and building projects, my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 
 - Sci-fi and fantasy movies particularly Marvel
 - Live music & music festivals, 
 - Travel and exploring different cultures, architecture and landscapes.
