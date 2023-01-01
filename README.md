@@ -50,6 +50,11 @@
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
 ---
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Further Skills:
+- Coaching
+- First Aid
+- Mental Health First Aider
+---
 
 ### 🧠 Interests:
 I love:
