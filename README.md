@@ -8,9 +8,10 @@
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3> 
+
+### 👋🏾 👩🏾‍💻 About Me :
 Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast!
-</h3> 
+
  
 
 - 🎓 MSc. International Business & Development **Postgraduate** from The University of London
@@ -26,10 +27,10 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - 😄 Pronouns: She/Her
 ### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="85"/></a>
 
-
+---
  
 
- ## 🎓  Education
+ ### 🎓  Education
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
@@ -45,12 +46,15 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
 
+---
 
-## 🧠 Interests:
+### 🧠 Interests:
 I love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  
 I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals, Theatre and the arts! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
-## 📫 Connect with me at:
+---
+
+### 📫 Connect with me at:
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="60" alt="LinkedIn Badge"/>
@@ -67,7 +71,9 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
   
   </p>
 
-## 👩🏾‍🔬 Featured Projects (Click image)
+  ---
+  
+### 👩🏾‍🔬 Featured Projects (Click image)
     
 <p style="display:flex">
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
@@ -96,9 +102,9 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 <img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="405"/></a>
 </p>
 
+---
 
-
-## 💻 My Current Tech Skills
+### 💻 My Current Tech Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=SQL&logoColor=white&color=B987F1)
@@ -117,15 +123,18 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Tools-Data-informational?style=flat&logo=Data&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=B987F1)
 
-    
-## 👾 Code Editors (IDE's)
+--- 
+  
+### 👾 Code Editors (IDE's)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=VisualStudio&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Atom-informational?style=flat&logo=Atom&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-Idle-informational?style=flat&logo=Idle&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=B987F1)
 
- ## 🏙 View My 3D Skyline:
+ --- 
+  
+ ### 🏙 View My 3D Skyline:
 
  <p style="display:flex">
 <a href="https://skyline.github.com/MarshaC713/2022"</a>
@@ -133,8 +142,9 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="250"/>
   </p>
 
-
-## :writing_hand: My Latest Blog Posts :
+---
+ 
+### :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
@@ -144,21 +154,26 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [Considering Data Redundancy Solutions as Hospital Computers Meltdown During Heatwave!](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📒 My Reading List :
+--- 
+ 
+### 📒 My Reading List :
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
 - [She's In CTRL: How women can take back tech - Anne-Marie Imafidon](https://www.waterstones.com/book/shes-in-ctrl/anne-marie-imafidon/9781787635029)
 - [Atomic Habits - James Clear](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=asc_df_1847941834/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=&hvnetw=g&hvrand=1043727984496671668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-551566274852&psc=1&th=1&psc=1)
 
-
-## 📈 :fire: My GitHub Stats
+---
+ 
+ 
+### 📈 :fire: My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-
+ 
 <!--
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/MarshaC713/github-readme-stats)
@@ -170,7 +185,6 @@ In addition to software engineering I also write a blog chronicling my journey a
 </a>
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&theme=jolly"/>
@@ -180,16 +194,17 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 
-## 🐍 Interactive Contribution Grid:
+### 🐍 Interactive Contribution Grid:
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)
 
-
-## 🛠 Summary of Languages and Tools:
+---
+ 
+### 🛠 Summary of Languages and Tools:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
+---
     
-## 📣 Sound Clip Outro Banner (Sound on)
+### 📣 Sound Clip Outro Banner (Sound on)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
 
