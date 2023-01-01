@@ -21,7 +21,7 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 
 
 
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="right" src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="center" src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=Click+to+view+my+portfolio)](https://www.marshacastello.com/s-projects-side-by-side)
 
 
