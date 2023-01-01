@@ -18,7 +18,9 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, Data and AI and Machine Learning Models
 - ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
 - 😄 Pronouns: She/Her
-### Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Click+to+view+my+portfolio)](https://git.io/typing-svg)
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
 
 ---
  
