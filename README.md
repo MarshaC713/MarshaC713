@@ -51,24 +51,24 @@
 
 ---
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
-- Coaching
-- First Aid
-- Mental Health First Aider
+- Coaching 💬 👂
+- First Aid ⛑
+- Mental Health First Aider ⛑
 ---
 
 ### 🧠 Interests:
 I love:
-- All things Tech
-- Meeting New People
-- Tech Conferences, meetups & events.
-- Art in all its mediums
-- Problem solving and reverse engineering 
-- Coding and building projects, my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 
-- Sci-fi and fantasy movies particularly Marvel
-- Live music & music festivals, 
-- Travel and exploring different cultures, architecture and landscapes.
-- Theatre and the arts! Favourite ballet dancer Carlos Acosta.
-- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+- All things Tech 📟
+- Meeting New People 🤝
+- Tech Conferences, meetups & events 🪅
+- Art in all its mediums 🎨 🎭
+- Problem solving and reverse engineering 🛠
+- Coding and building projects, my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾
+- Sci-fi and fantasy movies particularly Marvel 🍿
+- Live music & music festivals 🎫
+- Travel and exploring different cultures, architecture and landscapes 🚁
+- Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
+- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️
 
 ---
 
@@ -88,8 +88,8 @@ I love:
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="57" alt="Dev.to badge"/>
   
   </p>
-
-  ---
+💬 Please feel free to reach out to me with any opportunities/feedback/collabotation requests!
+  --- 
   
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
