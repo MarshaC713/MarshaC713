@@ -60,6 +60,7 @@
 I love:
 - All things Tech
 - Meeting New People
+- Tech Conferences, meetups & events.
 - Art in all its mediums
 - Problem solving and reverse engineering 
 - Coding and building projects, my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 
