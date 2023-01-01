@@ -4,43 +4,46 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://linktr.ee/marshacastello"><img align="left" width="450" height="550" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
+<a href="https://linktr.ee/marshacastello"><img align="left" width="500" height="800" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h3> 
-I am a Data Analyst, Sustainable Tech Enthusiast & Love Innovation!
+I am a Data Analyst, Sustainable Tech Enthusiast & Love Art & Culture!
 </h3> 
  
 
-I hold a MSc. International Business & Development, alongside **PRINCE2 Practitioner** Project Management certification and experience. 
-I am passionate about ethical and sustainable technological innovation, and AI & ML to propel positive social change.
-I am also a Data Analysis, have completed an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Data Analytical skills.
-
-In addition I am a python software engineer graduate studying:
-- **Cloud Computing** 
-- **Data**
-- **Python**
-- **SQL**
-- **AI & Machine Learning**  
-### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/"><img src="https://user-images.githubusercontent.com/82414822/210120688-5bbed566-7a67-49d3-b5c6-794fa4b0cf82.png" width="78" alt="website badge"/></a><a href="https://www.marshacastello.com/s-projects-side-by-side">
-
-
-
-## 📑 Summary:
-- 🤔 I’m looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
-- 🎓 I have recently graduated from The [Avado](https://www.avadolearning.com/for-individuals/skills-bootcamps/): Data Analysis Advanced Skills Bootcamp as sponsored by BT.  
-- 🎓 Completed: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Python & Apps,**  [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to **Data & SQL** and [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to **AI & Machine Learning**
-- 🎓 Graduated from [Firebrand Python Software Engineering Bootcamp](https://firebrand.training/uk)
-- 🎓 Achieved the [Microsoft Azure Fundamentals (AZ-900) certification](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- 🎓 Achieved [IT Specialist Python Certification](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- 🎓 Completed [SheCodes](https://www.shecodes.io/graduates/19479-marsha-marsha) Introduction to Coding (Web Development)
+- 🎓 MSc. International Business & Development Postgraduate from The University of London
+- 📜 **PRINCE2 Practitioner** Project Management certification and experience. 
+- 🌥 Microsoft Certified in: Azure Fundamentals also completed taught classes and labs for Microsoft Developer Associate.
+- 🌍 Passionate about ethical and sustainable technological innovation, and AI & ML to propel positive social change.
+- 📊 Experienced Data Analyst, continuously updating skills. Have recently graduated from an Advanced Data Analyst Skills Bootcamp and have a wealth of transferable Advanced Data Analytical skills.
+- Python Software Engineer graduate studying: **Python**, **Cloud Computing,** **Data,**, **SQL** and **AI & Machine Learning**  
+- 🌺 Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
+- 🤔 I am looking for help securing my first software engineering role in the fields of Cloud Computing, Python, Data Engineering or Cloud Security
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am presently working on are Python, AI and Machine Learning Models
-- 🌺 I am a Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Mentoring Programme
 - ❓ Ask me about **Azure** Cloud Computing, Python, Data, and transitioning into tech
 - 😄 Pronouns: She/Her
-    
-    
+### 👀 Click to View My Portfolio: <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="78"/></a>
+
+ 
+ ## 🎓  Education
+- MSc. International Business & Development
+- BA (Hons) Economics & International Development
+- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- Microsoft Azure Developer Associate taught classes and labs.
+- [Firebrand Python Software Engineering Bootcamp Graduate](https://firebrand.training/uk)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
+- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp
+- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
+- [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
+- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
+- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
+
+   
 ## 🧠 Interests:
 I love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  
 I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals, Theatre and the arts! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
@@ -93,7 +96,7 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 
 
 
-## 🔧 My Current Tech Skills
+## 💻 My Current Tech Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=SQL&logoColor=white&color=B987F1)
@@ -120,28 +123,13 @@ I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festiva
 ![](https://img.shields.io/badge/Tools-Idle-informational?style=flat&logo=Idle&logoColor=white&color=B987F1)
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=B987F1)
 
- ## 🛩 🏙 View My 3D Skyline:
+ ## 🏙 View My 3D Skyline:
 
  <p style="display:flex">
 <a href="https://skyline.github.com/MarshaC713/2022"</a>
 <img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="550" height="250"/></a>
 <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="250"/>
   </p>
-
-## 🎓  Education
-- MSc. International Business & Development
-- BA (Hons) Economics & International Development
-- [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- Microsoft Azure Developer Associate tbc
-- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- [Avado](https://join.avadolearning.com/skills-bootcamp-data-analyst): Data Analyst Advanced Skills Bootcamp 
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Python 
-- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/): Introduction to Data & SQL
-- [Code First Girls](https://codefirstgirls.com/courses/moocs/): Introduction to AI & Machine Learning
-- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  ![](https://img.shields.io/badge/Tools-PRINCE2-informational?style=flat&logo=PRINCE2&logoColor=white&color=B987F1)
-- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  ![](https://img.shields.io/badge/Tools-APM-informational?style=flat&logo=APM-PFQ&logoColor=white&color=B987F1)
 
 
 ## :writing_hand: My Latest Blog Posts :
@@ -154,7 +142,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [Considering Data Redundancy Solutions as Hospital Computers Meltdown During Heatwave!](https://medium.com/@Marsha.C/considering-server-redundancy-solutions-as-hospital-computers-meltdown-at-guys-and-st-thomas-1c6ebd463973?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📚 My Reading List :
+## 📒 My Reading List :
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
@@ -197,7 +185,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 ## 🛠 Summary of Languages and Tools:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-https://user-images.githubusercontent.com/82414822/210119982-9eaef405-46cf-414d-8098-fb23c56c53b4.mp4
+
     
 ## 📣 Sound Clip Outro Banner (Sound on)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
