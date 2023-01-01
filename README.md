@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="57" alt="Dev.to badge"/>
     </p>
     <p>
-  💬 Please feel free to reach out to me with any opportunities / feedback / collaboration requests!
+  💬 Please feel free to reach out to me with any opportunities/ feedback/ collaboration requests!
   </p>
 
 
