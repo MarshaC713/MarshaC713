@@ -19,11 +19,11 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 - ❓ Ask me about **Azure Cloud Computing, Python, Data,** and transitioning into tech
 - 😄 Pronouns: She/Her
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Click+to+view+my+portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70C12FF&lines=Click+to+view+my+portfolio+>>>)](https://git.io/typing-svg)
 <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://media.giphy.com/media/4TrKGDZrcugHAt2VBc/giphy.gif" width="100"/></a>
 
 ---
- 
+
 
  ### 🎓  Education
 - MSc. International Business & Development
