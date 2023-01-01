@@ -4,7 +4,7 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://linktr.ee/marshacastello"><img align="left" width="420" height="750" src="https://user-images.githubusercontent.com/82414822/210116105-9fa0d5fa-b80b-4237-bb65-e1ad34a801da.png"/></a>
+<a href="https://linktr.ee/marshacastello"><img align="left" width="500" height="750" src="https://media.giphy.com/media/mTwCjWa6QeB5NBlrSv/giphy.gif"/></a>
 
 ## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
