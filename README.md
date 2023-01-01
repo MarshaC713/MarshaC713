@@ -42,8 +42,17 @@ Experienced Data Analyst, Sustainable Tech Advocate and Art & Culture Enthusiast
 ---
 
 ### 🧠 Interests:
-I love digital art, building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529).  
-I enjoy sci-fi and fantasy movies particularly Marvel, live music, music festivals, Theatre and the arts! I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
+I love:
+- All things Tech!
+- Meeting New People,
+- Art in all its mediums particularly digital,
+- Problem solving, 
+- Coding and building projects, my first ever attempt at coding was building a computer game using [Scratch](https://scratch.mit.edu/projects/647244529). 
+- Sci-fi and fantasy movies particularly Marvel
+- Live music & music festivals, 
+- Travel and exploring different cultures, architecture and landscapes.
+- Theatre and the arts! Favourite ballet dancer Carlos Acosta.
+- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 
 
 ---
 
