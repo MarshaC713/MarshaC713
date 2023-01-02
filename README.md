@@ -11,7 +11,7 @@
 <p align="left">
   <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://www.marshacastello.com/s-projects-side-by-side">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Grad;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -75,29 +75,17 @@
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
 <p style="display:flex">
+ 
+  <a href="">
+<img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
-  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405"/></a>
-
-    
+  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405"/></a>   
 <a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
 <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405"/></a>
-
-      
-<a href="">
-<img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
-
-  
-
 <a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
   <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405"/></a>
-
-
-
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405"/></a>
-
-
-
 <a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
 <img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="405"/></a>
 </p>
