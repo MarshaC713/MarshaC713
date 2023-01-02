@@ -121,7 +121,7 @@
      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-34A853.svg?logo=ChatGPT&logoColor=white"></a>
      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-21759B??logo=Docker&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-21759B??logo=Figma&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-7952B3.svg?logo=Figma&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-FE7A16?logo=Google-Colab&logoColor=white"></a>
@@ -130,7 +130,7 @@
     <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/-JIRA-4D97FF.svg?logo=JIRA&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-FF0000?logo=OpenCV&logoColor=white"></a>
-    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-FF0000?logo=Miro&logoColor=white"></a>
+    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-F7DF1E?logo=Miro&logoColor=white"></a>
      <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-F0000.svg?logo=Pycharm&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
