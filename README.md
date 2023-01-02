@@ -17,7 +17,7 @@
 
 - 🤔 Looking for Software / Data Engineering opportunities within Cloud Computing or Python. 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
-- 🌍 Using and passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
+- 🌍 Using, designing and passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently deploying include: Python, Data and AI and Machine Learning Models
