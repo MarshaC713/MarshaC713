@@ -35,8 +35,8 @@
 ### 📫 Connect with me at:
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
-    <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="60" alt="LinkedIn Badge"/>
- <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="60" alt="Medium Badge"/> </a>
+    <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="65" alt="LinkedIn Badge"/>
+ <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="62" alt="Medium Badge"/> </a>
     
 <a href="https://linktr.ee/marshacastello">
 <img src="https://user-images.githubusercontent.com/82414822/210120363-212819d3-7cae-4d65-a1fa-6e5d0f1a8d96.png" width="57" alt="Linktree badge"/>
