@@ -75,17 +75,16 @@
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
 <p style="display:flex">
- 
+ <a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
+  <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405"/></a>
-<a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
-<img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405"/></a> 
+   <a href="">
+<img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
  <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405"/></a>
-    <a href="">
-<img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
-<a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
-  <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405"/></a>
+<a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
+<img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405"/></a> 
 <a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
 <img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="405"/></a>
 </p>
