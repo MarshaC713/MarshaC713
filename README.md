@@ -218,7 +218,7 @@ I love:
 - [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months
 by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/1118509234/ref=asc_df_1118509234/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=13083926543021073372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-432345870946&psc=1&th=1&psc=1)
 - 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology)   
-- 🗣[Favourite Ted Talk 'Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
+- 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
 </details> 
 ---
  
