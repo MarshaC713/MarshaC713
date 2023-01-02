@@ -217,9 +217,9 @@ I love:
 - [Atomic Habits - James Clear](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=asc_df_1847941834/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=&hvnetw=g&hvrand=1043727984496671668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-551566274852&psc=1&th=1&psc=1)
 - [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months
 by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/1118509234/ref=asc_df_1118509234/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=13083926543021073372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-432345870946&psc=1&th=1&psc=1)
-- 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology)
- </details>    
-- 🗣[Favourite Ted Talk](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
+- 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology)   
+- 🗣[Favourite Ted Talk 'Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
+</details> 
 ---
  
  
@@ -261,7 +261,8 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
 ---
     
-### 📣 Ethos: Interactive Quotable (Best viewed with Sound on & on Desktop) "Never Stop Learning, Because Life Never Stops Teaching" - Anon
+### 📣 Ethos: "Never Stop Learning, Because Life Never Stops Teaching" - Anon 
+#### (Interactive Quotable Best viewed with Sound on & on Desktop)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
 
