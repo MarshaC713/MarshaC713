@@ -144,13 +144,12 @@
 - [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
-- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
+- Avado [Advanced Data Analyst Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
 - [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
 - [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
 - [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
+- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Web development)
 
    
 ---
@@ -179,12 +178,12 @@ In addition to software engineering I also write a blog chronicling my journey a
 --- 
 
 <details> 
-  <summary><h2> 🤗 Expand For Further: Skills, Volunteering & Hobbies </h2></summary>
+  <summary><h2> 🤗 Expand For Further Skills, Volunteering & Hobbies </h2></summary>
   
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
-- Coaching 💬 👂
-- First Aid ⛑
-- Mental Health First Aider 🛟
+- Career and Professional Development Coach 💬 👂
+- British Red Cross First Aider ⛑
+- Mental Health First Aider and Wellbeing Champion 🛟
 ---
 
 ### 🧠 Interests:
@@ -192,23 +191,20 @@ I love:
 - All things Tech 📟
 - Meeting New People 🤝
 - Tech Conferences, meetups & events 🪅
-- Art in all its mediums 🎨 🎭 📖 🎶
+- Art in all its mediums, including Theatre, Dance and the Ballet! Favourite ballet dancer Carlos Acosta 🩰 🎨 🎭 📖 🎶
 - Problem solving and reverse engineering 🛠
 - Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
 - Sci-fi and fantasy movies particularly Marvel 🍿
 - Live music & music festivals 🎫 🎶
 - Travel and exploring different cultures, architecture, landscapes and adventures 🚁
-- Theatre and the arts! Favourite ballet dancer Carlos Acosta 🩰
-- I'm also a keep-fit fanatic and enjoy running 5K's, fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
+- I'm also a keep-fit fanatic and enjoy running 5K's, outdoor fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
 </details> 
 
 
 ---
 
-
-
  <details> 
-  <summary><h2> 📒 Expand For More: My Reading List & Resources </h2></summary>
+  <summary><h2> 📒 Expand For My Reading List & Resources </h2></summary>
 
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
@@ -217,9 +213,9 @@ I love:
 - [Atomic Habits - James Clear](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=asc_df_1847941834/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=&hvnetw=g&hvrand=1043727984496671668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-551566274852&psc=1&th=1&psc=1)
 - [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months
 by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/1118509234/ref=asc_df_1118509234/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=13083926543021073372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-432345870946&psc=1&th=1&psc=1)
-
+- 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology)
  </details>    
-   
+- 🗣[Favourite Ted Talk](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
 ---
  
  
@@ -261,7 +257,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
 ---
     
-### 📣 Interactive Quotable (Best viewed with Sound on & Desktop)
+### 📣 Ethos: Interactive Quotable (Best viewed with Sound on & on Desktop) "Never Stop Learning, Because Life Never Stops Teaching" - Anon
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
 
