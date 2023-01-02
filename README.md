@@ -160,15 +160,6 @@
    
 ---
     
- ### 🏙 View My 3D Skyline:
-
- <p style="display:flex">
-<a href="https://skyline.github.com/MarshaC713/2022"</a>
-<img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="550" height="250"/></a>
-<img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="250"/>
-  </p>
-
----
  
 ### :writing_hand: My Latest Blog Posts :
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
@@ -221,7 +212,7 @@ I love:
  
  <details> 
   
-<summary><h2> 📒 Expand For My Reading List & Resources </h2></summary>
+<summary><h2> Expand For My Reading List & Resources </h2></summary>
 
 - 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en)
 - 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology) and [BBC Click](https://www.bbc.co.uk/programmes/b006m9ry)  
@@ -242,6 +233,19 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
 ---
  
+  
+   ### 🏙 View My 3D Skyline:
+
+ <p style="display:flex">
+<a href="https://skyline.github.com/MarshaC713/2022"</a>
+<img src="https://media.giphy.com/media/DXlwmpJ6GtIgvdfACq/giphy.gif" width="550" height="250"/></a>
+<img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="250"/>
+  </p>
+  
+  
+  
+---
+  
  
 ### 📈 :fire: My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
