@@ -78,7 +78,9 @@
    
 <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 
+   
 --- 
+  
    
 <summary><h2>🛠️ My Tech Stack</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -247,7 +249,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 ---
   
  
-### 📈 :fire: My GitHub Stats
+### 📈 My GitHub Stats
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
