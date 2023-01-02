@@ -182,7 +182,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 --- 
- <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/sxHAqCgrm7SvnHwP9E/giphy.gif"/></a> 
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
 <details> 
@@ -217,7 +217,7 @@ I love:
 
 
 ---
-  <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>  
+  <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  
  <details> 
   
