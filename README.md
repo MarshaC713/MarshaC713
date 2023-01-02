@@ -15,7 +15,7 @@
 </p>
 
 
-- 🤔 Looking for Software / Data Engineering opportunities within Cloud Computing or Python. 
+- 🤔 Looking for Software / Data Engineering/ DevOps opportunities within Cloud Computing or Python. 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 - 🌍 Using, designing and passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
@@ -100,7 +100,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="PRINCE2 Practitioner" src="https://img.shields.io/badge/Prince2%20Practioner-0A9EDC.svg?logo=prince2&logoColor=white"></a>
+    <a href="#"><img alt="PRINCE2 Practitioner" src="https://img.shields.io/badge/Prince2%20Practioner-F0000.svg?logo=prince&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-21759B?.svg?logo=Seaborn&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-07405e?.svg?logo=Matplotlib&logoColor=white"></a>
@@ -201,7 +201,7 @@ I love:
 - Sci-fi and fantasy movies particularly Marvel 🍿
 - Live music & music festivals 🎫 🎶
 - Travel and exploring different cultures, architecture, landscapes and adventures 🚁
-- I'm also a keep-fit fanatic and enjoy running 5K's, outdoor fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
+- I'm also a keep-fit fan: enjoy running 5K's, outdoor fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
 </details> 
 
 
@@ -262,7 +262,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 ---
     
 ### 📣 Ethos: "Never Stop Learning, Because Life Never Stops Teaching" - Anon 
-#### (Interactive Quotable Best viewed with Sound on & on Desktop)
+#### (Interactive Quotable - best viewed with sound on & on desktop)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
 
 
