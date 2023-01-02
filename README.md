@@ -55,23 +55,6 @@
 ---
    
 
- ### 🎓  Education:
-- MSc. International Business & Development
-- BA (Hons) Economics & International Development
-- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
-- Microsoft Azure Developer Associate completed taught classes and labs.
-- [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
-- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
-- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
-- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
-- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
-- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
-- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
-
-  
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
 <p style="display:flex">
@@ -81,10 +64,10 @@
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405"/></a>
    <a href="">
 <img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
-<a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
- <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
 <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405"/></a> 
+<a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
+ <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
 <img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="405"/></a>
 </p>
@@ -153,6 +136,25 @@
 
 ---
 
+ ### 🎓  Education:
+- MSc. International Business & Development
+- BA (Hons) Economics & International Development
+- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- Microsoft Azure Developer Associate completed taught classes and labs.
+- [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
+- IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- Avado [Data Analyst Advanced Skills Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
+- [Association of Project Management](https://drive.google.com/file/d/1HGtKBov9cRsdo99wm1t1xiKtETveyUKh/view) Project Fundamentals  
+- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
+- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
+- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
+- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
+- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Front End Web development)
+
+   
+---
+    
  ### 🏙 View My 3D Skyline:
 
  <p style="display:flex">
