@@ -52,7 +52,9 @@
   </p>
 
 
+   
 ---
+  
    
 
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
@@ -145,7 +147,7 @@
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate completed taught classes and labs.
-- [Firebrand Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
+- Firebrand [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
 - [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
 - IT Specialist [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - Avado [Advanced Data Analyst Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
@@ -153,7 +155,7 @@
 - [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
 - [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
 - [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding(Web development)
+- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding (Web development)
 
    
 ---
@@ -180,15 +182,24 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 --- 
-
-<details> 
-  <summary><h2> 🤗 Expand For Further Skills, Volunteering & Hobbies </h2></summary>
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/sxHAqCgrm7SvnHwP9E/giphy.gif"/></a> 
   
+  
+<details> 
+  <summary><h2> Expand For Further Skills, Volunteering & Hobbies </h2></summary>
+   
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
 - Career and Professional Development Coach 💬 👂
 - British Red Cross First Aider ⛑
 - Mental Health First Aider and Wellbeing Champion 🛟
+  
+  
+  
+  
+  
+  
 ---
+
 
 ### 🧠 Interests:
 I love:
@@ -206,10 +217,15 @@ I love:
 
 
 ---
-
+  <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>  
+ 
  <details> 
-  <summary><h2> 📒 Expand For My Reading List & Resources </h2></summary>
+  
+<summary><h2> 📒 Expand For My Reading List & Resources </h2></summary>
 
+- 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en)
+- 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology) and [BBC Click](https://www.bbc.co.uk/programmes/b006m9ry)  
+📚 Reading:
 - [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
@@ -217,9 +233,13 @@ I love:
 - [Atomic Habits - James Clear](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=asc_df_1847941834/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=&hvnetw=g&hvrand=1043727984496671668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-551566274852&psc=1&th=1&psc=1)
 - [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months
 by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/1118509234/ref=asc_df_1118509234/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=13083926543021073372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045889&hvtargid=pla-432345870946&psc=1&th=1&psc=1)
-- 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology)   
-- 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en) 
 </details> 
+
+
+
+
+
+
 ---
  
  
