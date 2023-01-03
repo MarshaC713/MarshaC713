@@ -32,7 +32,7 @@
 ---
 
 
-### 📫 Connect with me at:
+### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="70"/> &nbsp;&nbsp;&nbsp;Connect with me at:
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="65" alt="LinkedIn Badge"/>
@@ -253,6 +253,14 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
  
 ### 📈 My GitHub Stats
+
+
+
+
+
+
+
+
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
