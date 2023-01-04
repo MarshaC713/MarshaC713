@@ -15,9 +15,9 @@
 </p>
 
 
-- 🤔 Looking for Software / Data Engineering/ DevOps opportunities within Cloud Computing or Python. 
+- 🤔 Looking for Software / Data Engineering / DevOps opportunities.
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
-- 🌍 Using, designing and passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
+- 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
 - 🔭 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently deploying include: Python, Data and AI and Machine Learning Models
@@ -76,7 +76,7 @@
 
 --- 
    
-<a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My20%Public%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
+<a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 
 
 
@@ -191,8 +191,6 @@ In addition to software engineering I also write a blog chronicling my journey a
   
   
   
-  
-  
 ---
 
 
@@ -231,11 +229,24 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 </details> 
 
 
-
-
-
-
 ---
+
+ 
+ <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
+ 
+ <details> 
+<summary><h2> Expand For ### 📈 My GitHub Stats  </h2></summary> 
+ 
+ 
+
+
+
+![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
+[![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </details> 
+ ---
  
   
    ### 🏙 View My 3D Skyline:
@@ -247,26 +258,12 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
   </p>
   
   
-  
+ 
 ---
-
 
  
-### 📈 My GitHub Stats
-
-
-
-
-
-
-
-
-![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
-[![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
+ 
+ 
  
 <!--
 
