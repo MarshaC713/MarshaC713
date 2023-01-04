@@ -237,10 +237,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  <details> 
 <summary><h2> Expand For 📈 My GitHub Stats  </h2></summary> 
  
- 
-**Note:**  
-- *Most Used languages* is only a metric of the languages my public code consists of and doesn't reflect full experience or skill level. 
-- Jupiter Notebook is the IDE I have used for Python to display visuals, but also able to use Pycharm, VS Code and Atom.
+
 
 
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
@@ -253,7 +250,10 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  </details> 
 
  
-  
+ ---
+ 
+ 
+ 
    ### 🏙 View My 3D Skyline:
 
  <p style="display:flex">
