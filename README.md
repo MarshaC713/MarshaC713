@@ -65,7 +65,7 @@
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405"/></a>
    <a href="https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker">
-<img src="https://media.giphy.com/media/JhR5qQjhDaej3JCj0N/giphy.gif" width="405"/></a>
+<img src="https://media.giphy.com/media/YglQYgi0kd2TqcESwY/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
 <img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405" height="280"/></a> 
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
@@ -76,10 +76,10 @@
 
 --- 
    
-<a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
+<a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My20%Public%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 
 
-<p align="left"> <a href="https://www.marshacastello.com/s-projects-side-by-side"><img src="https://github-profile-trophy.vercel.app/?username=marshac713" alt="marshac713" /></a> </p>
+
 
 --- 
   
