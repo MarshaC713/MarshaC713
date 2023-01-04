@@ -218,7 +218,7 @@ I love:
 
 - 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en)
 - 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology) and [BBC Click](https://www.bbc.co.uk/programmes/b006m9ry)  
-- [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
+- 📚 [Cracking the Coding interview](https://www.crackingthecodinginterview.com/)
 - [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 - [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
 - [She's In CTRL: How women can take back tech - Anne-Marie Imafidon](https://www.waterstones.com/book/shes-in-ctrl/anne-marie-imafidon/9781787635029)
