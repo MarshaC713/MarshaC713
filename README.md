@@ -146,6 +146,7 @@
 
 ---
 
+  
  ### 🎓  Education:
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
