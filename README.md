@@ -158,7 +158,6 @@
 - [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
 - [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
 - [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
-- [Coding Black Females](https://codingblackfemales.com/academy?c=pythonml): Intermediate Python & Machine Learning 
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding (Web development)
 
    
