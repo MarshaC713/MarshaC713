@@ -6,7 +6,7 @@
 
 <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="400" height="760" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
 
-## Hi, There! I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi,  I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
  
