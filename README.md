@@ -17,7 +17,7 @@
 
 - 🤔 I am looking for **Software** / **Data** Engineering / **DevOps** opportunities.
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
-- 🚀 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently deploying include: **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
+- 🚀 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently deploying include: **Aure DevOps IAC & CI/CD**, **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumni
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
