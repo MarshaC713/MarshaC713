@@ -4,7 +4,7 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="400" height="760" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="200" height="200" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
 
 ## Hi,  I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -38,7 +38,8 @@
 
 
 
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3"/></a>
+
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3"/></a>
 
 
 ---
