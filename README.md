@@ -70,7 +70,7 @@
   
   
   
-### 🗞 Article I have Written
+### 🗞 Article I have Written &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
 
 I wrote the following article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn:
 - 🔸 [Considering Data Reduncy Soluutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha)  
