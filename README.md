@@ -65,10 +65,20 @@
   </p>
 
 
-   
+
 ---
   
-   
+  
+  
+### 🗞 Article I have Written
+
+I wrote the following article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn:
+- 🔸 [Considering Data Reduncy Soluutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha)  
+  
+  
+---
+  
+  
 
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
@@ -90,14 +100,6 @@
 --- 
    
 <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
-
-
-
----
-### 🗞 Article I have Written
-
-I wrote the following article in the early stages of my Azure learning in order to consolidate what I had learnt, and had reproduced it on LinkedIn:
-- 🔸 [Considering Data Reduncy Soluutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha)
 
 
 
