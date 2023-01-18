@@ -83,14 +83,14 @@ I wrote the following article in the early stages of my Azure learning in order 
 ### 👩🏾‍🔬 Featured Projects (Click Image):    
  
 <p style="display:flex">
- <a href="https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker">
+<a href="https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker">
 <img src="https://media.giphy.com/media/YglQYgi0kd2TqcESwY/giphy.gif" width="405"/></a>
- <a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
-  <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405" height="280"/></a>
- <a href="">
+<a href="">
 <img src="https://media.giphy.com/media/cPgyQwndlnf84EeaDF/giphy.gif" width="405" height="280"/></a>
+<a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
+<img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
-  <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405" height="280"/></a>
+<img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
 <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
