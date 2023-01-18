@@ -72,9 +72,9 @@
   
 ### 🗞 Article I have Written &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" />
 
-  - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 
+  - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
   
-I wrote the above article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn:
+I had written the above article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn
 
   
   
