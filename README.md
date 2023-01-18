@@ -87,16 +87,19 @@ I wrote the following article in the early stages of my Azure learning in order 
 <img src="https://media.giphy.com/media/YglQYgi0kd2TqcESwY/giphy.gif" width="405"/></a>
  <a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
   <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405" height="280"/></a>
+ <a href="">
+<img src="https://media.giphy.com/media/cPgyQwndlnf84EeaDF/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
   <img src="https://media.giphy.com/media/GcGgxwSTIXTQo1lHme/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/Electric-Vehicle-Case-Study">
 <img src="https://media.giphy.com/media/ikpuos71uQ0Fx28v5D/giphy.gif" width="405" height="280"/></a>
-<a href="https://github.com/MarshaC713/Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression">
-<img src="https://media.giphy.com/media/3dKgZRkhtxOovJtFs7/giphy.gif" width="405" height="280"/></a> 
 <a href="https://github.com/MarshaC713/Advanced-OpenCV-Image-Reading-and-Editing-Using-Python-P2">
 <img src="https://media.giphy.com/media/LUJ3QgLycggm29TR2N/giphy.gif" width="405" height="280"/></a>
+  
 </p>
 
+  
+ 
 --- 
    
 <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
