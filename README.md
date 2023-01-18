@@ -86,7 +86,7 @@ I wrote the following article in the early stages of my Azure learning in order 
 <a href="https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker">
 <img src="https://media.giphy.com/media/YglQYgi0kd2TqcESwY/giphy.gif" width="405"/></a>
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
-<img src="https://media.giphy.com/media/cPgyQwndlnf84EeaDF/giphy.gif" width="405" height="280"/></a>
+<img src="https://media.giphy.com/media/5Q4h5wS4dDmvDeQJsS/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/Breast_Cancer_Data_Analysis_Decision_Tree">
 <img src="https://media.giphy.com/media/UgdWSSCrfSfemEldEJ/giphy.gif" width="405" height="280"/></a>
 <a href="https://github.com/MarshaC713/CSV-File-Case-Study-Using-Python">
