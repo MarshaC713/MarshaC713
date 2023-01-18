@@ -19,7 +19,7 @@
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 
-- 🚀 [Projects](https://www.marshacastello.com/s-projects-side-by-side) I am currently deploying include: **Azure DevOps IAC & CI/CD**, **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
+- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: **Azure DevOps IAC & CI/CD**, **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
 
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 
