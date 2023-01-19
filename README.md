@@ -263,12 +263,24 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  <details> 
 <summary><h2> Expand For 📈 My GitHub Stats  </h2></summary> 
  
+<div align="center">
+<p align="center">
+<a href="https://github.com/MarshaC713">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarshaC713&&show_icons=true&theme=react"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&langs_count=8&theme=react"/>
+
+ </a>
+</p>
+</div>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MarshaC713&theme=react-dark&hide_border=true"/></a>
 
 
-
+<!--
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
 [![Marsha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarshaC713&theme=jolly&background=291C3E)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&theme=jolly)](https://github.com/MarshaC713/github-readme-stats)
+-->
  
  **Note:**  
 - *Most Used languages* is only a metric of the languages my public code consists of and doesn't reflect full experience or skill level. 
