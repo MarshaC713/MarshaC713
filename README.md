@@ -4,14 +4,13 @@
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
 
 ## Hi,  I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
  
   <a href="https://www.marshacastello.com/s-projects-side-by-side">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Graduate;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Graduate;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7d&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -34,6 +33,7 @@
 
 
 
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
 
 
 
@@ -58,7 +58,7 @@
 <img src="https://user-images.githubusercontent.com/82414822/210136144-beafa863-9876-45e0-91b6-1db60bba2b24.jpg" width="57" alt="Linktree badge"/>
 
  <a href="https://dev.to/marshac713">
-<img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="57" alt="Dev.to badge"/>
+<img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="50" alt="Dev.to badge"/>
     </p>
     <p>
   💬 Please feel free to reach out to me with any opportunities/ feedback/ collaboration requests!
