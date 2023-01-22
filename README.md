@@ -46,11 +46,8 @@
 
 - 😄 Pronouns: She/Her
 
-
-
-
 <p align="center">
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>	
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="center" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>	
 </p>
 
 
@@ -60,7 +57,7 @@
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
- <picture align="center">
+ <p align="center">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="70"/> &nbsp;&nbsp;&nbsp;Connect with me at:
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
@@ -79,7 +76,7 @@
     <p>
   💬 Please feel free to reach out to me with any opportunities/ feedback/ collaboration requests!
   </p>
-  </picture>
+  </p>
 
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
