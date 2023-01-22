@@ -377,6 +377,10 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 ### 🐍 Interactive Contribution Grid:
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)![image](https://user-images.githubusercontent.com/82414822/211106229-e957b542-c31e-4fbb-88fd-d133418f5bb1.png) -->
 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
+### 🐍 A Python gobbling up my Contributions Graph
+![Snake animation](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.svg)
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
