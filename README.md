@@ -225,6 +225,12 @@ In addition to software engineering I also write a blog chronicling my journey a
   
 <details> 
   <summary><h2> Expand For Further Skills, Volunteering & Hobbies </h2></summary>
+	
+	
+---
+	
+	
+	
    
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
 - Career and Professional Development Coach 💬 👂
@@ -234,9 +240,15 @@ In addition to software engineering I also write a blog chronicling my journey a
   
   
   
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 
+
+	
+	
+---
+	
+	
+	
 ### 🧠 Interests:
 I love:
 - All things Tech 📟
@@ -258,6 +270,13 @@ I love:
  <details> 
   
 <summary><h2> Expand For My Reading List & Resources </h2></summary>
+	 
+	 
+
+---
+	 
+	 
+	 
 
 - 🗣 Favourite Ted Talk ['Give Yourself Permission To Be Creative'](https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en)
 - 🎧 Podcasts: [Tech Swamp](https://podcasts.apple.com/us/podcast/tech-swamp/id1330660803), [Ted Tech](https://www.ted.com/playlists/707/ted_podcast_technology) and [BBC Click](https://www.bbc.co.uk/programmes/b006m9ry)  
@@ -279,6 +298,12 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  <details> 
 <summary><h2> Expand For 📈 My GitHub Stats  </h2></summary> 
  
+	 
+	 
+---
+	 
+	 
+	 
 <div align="center">
 <p align="center">
 <a href="https://github.com/MarshaC713">
