@@ -276,7 +276,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
  
 
- 
+ <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
  <details> 
 <summary><h2> Expand For 📈 My GitHub Stats  </h2></summary> 
  
@@ -307,7 +307,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  
  
  
- 
+ <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
    ### 🏙 View My 3D Skyline:
 
@@ -319,7 +319,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
   
   
  
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
 
  
  
