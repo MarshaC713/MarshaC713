@@ -27,6 +27,9 @@
 	</a>
 </p>
  
+<br><br>	
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
+	
 - 🤔 I am looking for **Software** / **Data** Engineering / **DevOps** opportunities.
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
@@ -46,16 +49,17 @@
 
 
 
+<picture> <img align="center" 
 <a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="left" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>
+	
+</picture>
 
 
 
 
 
 
-
-
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="70"/> &nbsp;&nbsp;&nbsp;Connect with me at:
@@ -79,7 +83,7 @@
 
 
 
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
   
   
   
@@ -89,9 +93,9 @@
   
 I had written the above article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn
 
-  
-  
----
+ 
+	 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
   
   
 
@@ -114,14 +118,14 @@ I had written the above article in the early stages of my Azure learning in orde
 
   
  
---- 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif"> 
    
 <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 
 
 
 
---- 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
   
    
 <summary><h2>🛠️ My Tech Stack</h2></summary>
@@ -184,7 +188,7 @@ I had written the above article in the early stages of my Azure learning in orde
     </p>
     
 
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
   
  ### 🎓  Education:
@@ -202,7 +206,7 @@ I had written the above article in the early stages of my Azure learning in orde
 - [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding (Web development)
 
    
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
     
  
 ### :writing_hand: My Latest Blog Posts :
@@ -216,7 +220,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 <!-- BLOG-POST-LIST:END -->
 
 
---- 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
@@ -231,7 +235,7 @@ In addition to software engineering I also write a blog chronicling my journey a
   
   
   
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 
 ### 🧠 Interests:
@@ -249,7 +253,7 @@ I love:
 </details> 
 
 
----
+
   <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  
  <details> 
@@ -268,10 +272,10 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 </details> 
 
 
----
+
 
  
- <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
+
  
  <details> 
 <summary><h2> Expand For 📈 My GitHub Stats  </h2></summary> 
@@ -301,7 +305,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  </details> 
 
  
- ---
+ 
  
  
  
@@ -315,7 +319,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
   
   
  
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
  
  
@@ -350,12 +354,12 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 ![snake gif](https://github.com/MarshaC713/MarshaC713/blob/output/github-contribution-grid-snake.gif)![image](https://user-images.githubusercontent.com/82414822/211106229-e957b542-c31e-4fbb-88fd-d133418f5bb1.png) -->
 
 
---- 
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
 ### 🛠 Summary of Languages and Tools:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
     
 ### 📣 Ethos: "Never Stop Learning, Because Life Never Stops Teaching" - Anon 
 #### (Interactive Quotable - best viewed with sound on & on desktop)
