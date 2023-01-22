@@ -7,21 +7,25 @@
 <a href="https://www.marshacastello.com/s-projects-side-by-side">
 <img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="510"/></a>
 
- <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3"/></a>
-
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
 
 
-## Hi,  I am [Marsha Castello!](https://linktr.ee/marshacastello)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">
 
-<p align="left">
+
+<h1 align="center"> Hi,  I am Marsha Castello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="35"></h1>
+
+<p align="center"> 
  
   <a href="https://www.marshacastello.com/s-projects-side-by-side">
     <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Graduate;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7d&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 
+<p align="center">  
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3" 
+	</a>
+</p>
  
 - 🤔 I am looking for **Software** / **Data** Engineering / **DevOps** opportunities.
 
