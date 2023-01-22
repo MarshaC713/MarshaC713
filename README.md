@@ -59,7 +59,7 @@
 
  <p align="center">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="70"/> &nbsp;&nbsp;&nbsp;Connect with me at:
-<p style="display:flex">
+<p style="display:center">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
     <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="65" alt="LinkedIn Badge"/>
  <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="62" alt="Medium Badge"/> </a>
@@ -74,7 +74,7 @@
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="50" alt="Dev.to badge"/>
     </p>
     <p>
-  💬 Please feel free to reach out to me with any opportunities/ feedback/ collaboration requests!
+  💬 Please feel free to reach out to me with any `opportunities/ feedback/ collaboration requests!`
   </p>
   </p>
 
@@ -87,7 +87,7 @@
 
   - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
   
-I had written the above article in the early stages of my Azure learning in order to consolidate what I had learnt, and have reproduced it on LinkedIn
+I had written the above article in the early stages of my Azure learning in order to `consolidate` what I had learnt, and have reproduced it on LinkedIn
 
  
 	 
@@ -251,16 +251,16 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 ### 🧠 Interests:
 I love:
-- All things Tech 📟
-- Meeting New People 🤝
+- All things `Tech` 📟
+- Meeting New `People` 🤝
 - Tech Conferences, meetups & events 🪅
-- Art in all its mediums, including Theatre, Dance and the Ballet! Favourite ballet dancer Carlos Acosta 🩰 🎨 🎭 📖 🎶
-- Problem solving and reverse engineering 🛠
-- Coding and building projects, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
-- Sci-fi and fantasy movies particularly Marvel 🍿
-- Live music & music festivals 🎫 🎶
-- Travel and exploring different cultures, architecture, landscapes and adventures 🚁
-- I'm also a keep-fit fan: enjoy running 5K's, outdoor fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
+- `Art` in all its mediums, including Theatre, Dance and the Ballet! Favourite ballet dancer Carlos Acosta 🩰 🎨 🎭 📖 🎶
+- `Problem solving` and reverse engineering 🛠
+- `Coding and building projects`, &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;**Fun Fact** my first ever attempt at coding was building a [Scratch](https://scratch.mit.edu/projects/647244529) game! 👾 </br>
+- `Sci-fi` and fantasy movies particularly Marvel 🍿
+- `Live music` & music festivals 🎫 🎶
+- `Travel` and exploring different cultures, architecture, landscapes and adventures 🚁
+- I'm also a `keep-fit` fan: enjoy running 5K's, outdoor fitness bootcamps and reformer pilates! 🏋️‍♀️ </br>
 </details> 
 
 
