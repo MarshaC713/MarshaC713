@@ -120,7 +120,9 @@ I had written the above article in the early stages of my Azure learning in orde
  
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif"> 
  
-<p align="center">   	 
+	 
+<p align="center"> 
+<picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture>
 <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 </p>
 
