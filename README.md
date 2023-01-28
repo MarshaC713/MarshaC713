@@ -62,7 +62,7 @@
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <p align="center">
-<h3>Connect with me at:<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="40"/></h3> 
+<h3>Connect with me at:<a href="https://linktr.ee/marshacastello"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="40"/></h3> 
   
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
