@@ -29,7 +29,9 @@
  
 <br><br>	
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
-	
+
+- Multi-Award Nominated tech profesional 🏆🏆🏆
+
 - 🤔 I am looking for **Software** / **Data** Engineering / **DevOps** opportunities.
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
