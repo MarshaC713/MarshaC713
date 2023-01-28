@@ -46,7 +46,7 @@
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
-- 🔍 Check out my [web links](https://linktr.ee/marshacastello)
+- 🔍 Keep up to date and check out my [web links](https://linktr.ee/marshacastello)
 
 - 😄 Pronouns: She/Her
 
