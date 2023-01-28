@@ -3,9 +3,9 @@
 <!-- ![Blue Violet Neon Best Games YouTube Thumbnail (9)](https://user-images.githubusercontent.com/82414822/209595686-4f5b26a4-56e7-4535-8dac-27e6078f2135.png) -->
 
 
-
+<!-- 
 <a href="https://www.marshacastello.com/s-projects-side-by-side">
-<img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="450"/></a>
+<img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="450"/></a> -->
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
