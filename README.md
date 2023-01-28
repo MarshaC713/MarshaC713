@@ -353,7 +353,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
-   ### 🔍 🏙 View My 3D Skyline:
+   ### 🔍 🏙 Click to View My 3D Skyline:
 
  <p style="display:flex">
 <a href="https://skyline.github.com/MarshaC713/2022"</a>
