@@ -44,7 +44,9 @@
 
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
 
-- ❓ Ask me about **Cloud Computing, Coding, Data,** and Tech Careers
+- ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
+
+- 🔍 Check out my [web links](https://linktr.ee/marshacastello)
 
 - 😄 Pronouns: She/Her
 
