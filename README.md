@@ -240,6 +240,17 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+	
+ <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
+ <details> 
+  
+<summary><h2> Expand For Articles I Have Been Featured in <picture>   </h2></summary>
+
+- 💠 [Women in Tech Series Featuring Marsha Castello - Thetrendycoder.com:](https://thetrendycoder.com/women-in-tech-series-%20interview-with-marsha-castello/)
+- 💠 [Extraordinary Tech Stories Featuring Marsha Castello](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
+ 
+ </details>	
+
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
@@ -349,7 +360,9 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  </details> 
 
  
- 
+	 
+
+
  
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
