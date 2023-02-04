@@ -246,7 +246,7 @@ In addition to software engineering I also write a blog chronicling my journey a
   
 <summary><h2> Expand For Articles I Have Been Featured in <picture>   </h2></summary>
 
-- 💠 [Women in Tech Series Featuring Marsha Castello - Thetrendycoder.com:](https://thetrendycoder.com/women-in-tech-series-%20interview-with-marsha-castello/)
+- 💠 [Women in Tech Series Featuring Marsha Castello](https://thetrendycoder.com/women-in-tech-series-%20interview-with-marsha-castello/)
 - 💠 [Extraordinary Tech Stories Featuring Marsha Castello](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
  
  </details>	
