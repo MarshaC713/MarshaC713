@@ -238,13 +238,14 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [I am now A Cajigo 100 Women in Tech Mentee!](https://medium.com/@Marsha.C/i-am-now-a-cajigo-100-women-in-tech-mentee-b236bd232b9e?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
+	
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 	
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  <details> 
   
-<summary><h2> Expand For Articles I Have Been Featured in <picture>   </h2></summary>
+<summary><h2> Expand For Articles I Have Been Featured in <picture><img  src="https://media.giphy.com/media/YfRc9QhF2lBMQ/giphy.gif" width ="30">   </h2></summary>
 
 - 💠 [Women in Tech Series Featuring Marsha Castello](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
 - 💠 [Extraordinary Tech Stories Featuring Marsha Castello](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
