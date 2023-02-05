@@ -256,7 +256,8 @@ In addition to software engineering I also write a blog chronicling my journey a
   
   
 <details> 
-  <summary><h2> Expand For Further Skills, Volunteering & Hobbies </h2></summary>
+  <summary><h2> Expand For Further Skills, Volunteering & Hobbies <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" width ="30">
+	  </h2></summary>
 	
 	
 ---
