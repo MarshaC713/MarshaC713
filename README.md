@@ -27,6 +27,13 @@
 	</a>
 </p>
  
+<p align="center">  
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/7B6hPzXvsXvu6fjU5e/giphy.gif" width ="120"
+</a>
+</p>
+	
+	
+	
 <br><br>	
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
 
