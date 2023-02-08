@@ -28,7 +28,7 @@
 </p>
  
 <p align="center">  
- <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/7B6hPzXvsXvu6fjU5e/giphy.gif" width ="130"
+ <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/DhhFAEp32ouKp5gAuN/giphy.gif" width ="130"
 </a>
 </p>
 	
