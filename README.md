@@ -2,6 +2,7 @@
 
 <!-- ![Blue Violet Neon Best Games YouTube Thumbnail (9)](https://user-images.githubusercontent.com/82414822/209595686-4f5b26a4-56e7-4535-8dac-27e6078f2135.png) -->
 
+![_Minimalist github Profile LinkedIn Banner](https://user-images.githubusercontent.com/82414822/217677083-d5d538e6-ef58-4e35-acfa-98e7bd767f56.png)
 
 <!-- 
 <a href="https://www.marshacastello.com/s-projects-side-by-side">
