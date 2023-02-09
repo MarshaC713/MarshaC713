@@ -52,6 +52,8 @@
 
 - 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
 
+- 🌷 A Mentee at [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme.
+
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
 - 🔍 Keep up to date and check out my [web links](https://linktr.ee/marshacastello)
