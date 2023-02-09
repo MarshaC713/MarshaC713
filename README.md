@@ -223,14 +223,14 @@ I had written the above article in the early stages of my Azure learning in orde
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate completed taught classes and labs.
-- Firebrand [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management  
-- PCEP and uCertify IT Specialist Certifications [Python](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- Avado [Advanced Data Analyst Bootcamp Graduate ](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed): Advanced Data Anaysis, Python, SQL, AI&ML, Agile, Tableau, JIRA and PowerQuery
-- [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing): Introduction to Python 
-- [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view): Introduction to Data & SQL
-- [Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view): Introduction to AI & Machine Learning
-- [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d): Introduction to Coding (Web development)
+- [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management: Firebrand 
+- Python PCEP and uCertify IT Specialist [Certifications](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
+- Advanced Data Analyst Bootcamp Graduate: [Avado Fast Futures](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed)
+- Python and Apps 8 week course: [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing):  
+- Data & SQL 8 week course: [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view)
+- AI & Machine Learning MOOC:[Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view) 
+- JavaScript, HTML & CSS: [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d)
 
    
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
