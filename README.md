@@ -223,8 +223,8 @@ I had written the above article in the early stages of my Azure learning in orde
 - BA (Hons) Economics & International Development
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate completed taught classes and labs.
-- [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view)
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management: Firebrand 
+- [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view): Firebrand
+- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management 
 - Python PCEP and uCertify IT Specialist [Certifications](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
 - Advanced Data Analyst Bootcamp Graduate: [Avado Fast Futures](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed)
 - Python and Apps 8 week course: [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing):  
