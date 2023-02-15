@@ -31,6 +31,7 @@
 <p align="center">  
  <a href="https://www.marshacastello.com/s-projects-side-by-side"><img alt="My Portfolio Site" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Portfolio%20Site-161B22?style=for-the-badge&logoColor=white&logo=click3" 
 	</a>
+	  <a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
 </p>
  
 <p align="center">  
@@ -114,7 +115,7 @@ I had written the above article in the early stages of my Azure learning in orde
   
 
 
-### 👩🏾‍🔬 Featured Projects (Click Image):  
+### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture> Featured Projects (Click Image):  
 
 <p style="display:flex">
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
@@ -152,17 +153,14 @@ I had written the above article in the early stages of my Azure learning in orde
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif"> 
  
 	 
-<p align="center"> 
-<picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture>
-<a href="https://github.com/MarshaC713?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo1"/></a>
-</p>
 
 
 
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
+
   
    
-<summary><h2>🛠️ My Tech Stack</h2></summary>
+<summary><h2> 🛠️  My Tech Stack </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <h3>👩🏾‍💻 Programming and Markup Languages</h3>
   <p>
