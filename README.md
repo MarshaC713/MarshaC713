@@ -83,15 +83,15 @@
   </p> 
 <p style="display:flex">
 <a href="https://www.linkedin.com/in/marshacastellomastersgraduate">
-    <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="70" alt="LinkedIn Badge"/>
+    <img src="https://user-images.githubusercontent.com/82414822/210117391-0dd99e5f-1413-4fe7-8642-28e5b61fea37.jpg" width="70" alt="LinkedIn Badge"/> &nbsp &nbsp
  <a href="https://www.medium.com/@Marsha.C"> <img src="https://user-images.githubusercontent.com/82414822/210117497-afe7ccf4-6d39-4561-bb40-1a5169e5de40.png" width="65" alt="Medium Badge"/> </a>
-    
+    &nbsp &nbsp
 <a href="https://linktr.ee/marshacastello">
 <img src="https://user-images.githubusercontent.com/82414822/210120363-212819d3-7cae-4d65-a1fa-6e5d0f1a8d96.png" width="60" alt="Linktree badge"/>
- 
+ &nbsp &nbsp
  <a href="https://www.marshacastello.com/s-projects-side-by-side">
 <img src="https://user-images.githubusercontent.com/82414822/210136144-beafa863-9876-45e0-91b6-1db60bba2b24.jpg" width="60" alt="Linktree badge"/>
-
+&nbsp &nbsp
  <a href="https://dev.to/marshac713">
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="60" alt="Dev.to badge"/>
     </p>
