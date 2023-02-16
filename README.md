@@ -67,7 +67,7 @@
 - 😄 Pronouns: She/Her
 
 <p align="center">
-<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="center" width="250" height="250" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>	
+<a href="https://www.marshacastello.com/s-projects-side-by-side"><img align="center" width="150" height="150" src="https://media.giphy.com/media/BRt4fmmzNOn89R53G2/giphy.gif"/></a>	
 </p>
 
 
