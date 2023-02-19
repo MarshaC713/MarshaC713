@@ -56,9 +56,9 @@
 
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumna
 
-- 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
+- 🌺 A Mentee at [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4.
 
-- 🌷 A Mentee at [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme.
+- 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
