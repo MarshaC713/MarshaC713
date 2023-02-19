@@ -35,7 +35,7 @@
 </p>
  
 <p align="center">  
- <a href="https://linktr.ee/marshacastello"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3ODIyZmNkY2ZjNTc5NTE3YTM3NzM5ODE2NzBmN2JiMjc0OTE1MyZjdD1n/AxfKt6g0JDdVj7ip6u/giphy.gif" width ="130"
+ <a href="https://linktr.ee/marshacastello"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ1OTk1YjhmNmQxYzQyZmJmNDVmYTYyOTE0NmUwOTE1ODY2NTNhMCZjdD1n/XRKiSWIxvTr1FhGms4/giphy.gif" width ="130"
 </a>
 </p>
 	
