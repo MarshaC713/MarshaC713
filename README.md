@@ -50,7 +50,7 @@
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 
-- 🌱 Current studies: [Software Engineering Bootcamp - Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) 🥳
+- 🌱 Current studies: [Software Engineering Bootcamp with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) 🥳
 
 - 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: **Azure DevOps IAC & CI/CD**, **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
 
