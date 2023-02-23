@@ -275,9 +275,15 @@ In addition to software engineering I also write a blog chronicling my journey a
 [ Academy: Software Engineering with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) :
 ![image](https://user-images.githubusercontent.com/82414822/221048567-ac0dc0e3-fff9-4faa-b45e-17f2f826ef29.png)
 
+
  
  </details>		
 	
+	
+
+<br><br>
+	
+<br><br>
 	
 	
 	
