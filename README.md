@@ -270,7 +270,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 <details> 
   
-<summary><h2> Expand For Current Studies <picture><img  src="https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif" width ="30">   </h2></summary>
+<summary><h2> Expand For Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="30">   </h2></summary>
 	
 [ Academy: Software Engineering with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) :
 ![image](https://user-images.githubusercontent.com/82414822/221048567-ac0dc0e3-fff9-4faa-b45e-17f2f826ef29.png)
