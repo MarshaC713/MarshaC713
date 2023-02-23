@@ -262,7 +262,12 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
-	
+
+
+ <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
+  
+  
+
 <details> 
   
 <summary><h2> Expand For Current Studies <picture><img  src="https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif" width ="30">   </h2></summary>
