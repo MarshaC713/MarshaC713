@@ -283,7 +283,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 <br><br>
 	
-<br><br>
+
 	
 	
 	
