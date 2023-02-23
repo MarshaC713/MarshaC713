@@ -259,9 +259,23 @@ In addition to software engineering I also write a blog chronicling my journey a
 - [I am now A Cajigo 100 Women in Tech Mentee!](https://medium.com/@Marsha.C/i-am-now-a-cajigo-100-women-in-tech-mentee-b236bd232b9e?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
-	
 
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
+	
+<details> 
+  
+<summary><h2> Expand For Current Studies <picture><img  src="https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif" width ="30">   </h2></summary>
+	
+[ Academy: Software Engineering with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) :
+![image](https://user-images.githubusercontent.com/82414822/221048567-ac0dc0e3-fff9-4faa-b45e-17f2f826ef29.png)
+
+ 
+ </details>		
+	
+	
+	
+	
 	
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  <details> 
