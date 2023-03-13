@@ -119,8 +119,8 @@ I had written the above article in the early stages of my Azure learning in orde
 
 ### 📯 Features:
 I have been featured in the following publications:
-  - 🔸 [Women In Tech: The Trendcoder.com](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
-  - 🔸 [(Extra)Ordinary Tech Stories](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
+  - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
+  - 🔸 [(Extra)Ordinary Tech Stories](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
 	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
