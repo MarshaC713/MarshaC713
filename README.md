@@ -117,6 +117,11 @@
 I had written the above article in the early stages of my Azure learning in order to `consolidate` what I had learnt, and have reproduced it on LinkedIn
 
 
+### 📯 Features:
+I have been featured in the following publications:
+  - 🔸 [Women In Tech: The Trendcoder.com](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
+  - 🔸 [(Extra)Ordinary Tech Stories](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
+	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
     
