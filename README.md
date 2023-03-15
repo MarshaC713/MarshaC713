@@ -295,15 +295,8 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 	
 	
- <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
- <details> 
   
-<summary><h2> Expand For Articles I Have Been Featured in <picture><img  src="https://media.giphy.com/media/YfRc9QhF2lBMQ/giphy.gif" width ="30">   </h2></summary>
-
-- 💠 [Women in Tech Series Featuring Marsha Castello](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
-- 💠 [Extraordinary Tech Stories Featuring Marsha Castello](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
- 
- </details>	
+	
 
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
