@@ -394,6 +394,9 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 ![1](https://user-images.githubusercontent.com/82414822/228117230-1b271e54-09d9-4d05-ac95-5a42141ebf03.png)
 ---
 	 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MarshaC713&theme=react-dark&hide_border=true"/></a>
+
 	 
 	 
 <div align="center">
@@ -405,9 +408,6 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  </a>
 </p>
 </div>
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MarshaC713&theme=react-dark&hide_border=true"/></a>
-
 
 <!--
 ![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarshaC713&theme=jolly&show_icons=true)
