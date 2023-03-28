@@ -399,8 +399,8 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 <div align="center">
 <p align="center">
 <a href="https://github.com/MarshaC713">
-<img height="203em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarshaC713&&show_icons=true&theme=react"/>
-<img height="203em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&langs_count=8&theme=react"/>
+<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarshaC713&&show_icons=true&theme=react"/>
+<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&langs_count=8&theme=react"/>
 
  </a>
 </p>
