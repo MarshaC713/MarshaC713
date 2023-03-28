@@ -311,6 +311,8 @@ In addition to software engineering I also write a blog chronicling my journey a
  <summary>Click to see details</summary>
  <br /> 
 	
+![2](https://user-images.githubusercontent.com/82414822/228120571-150088e2-504b-4dfd-819c-56d13b63111e.png)	
+
 	
 	
 ---
@@ -319,6 +321,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
    
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
+- [UN Women UK Delegate to the UN Commission on the Status of Women](https://www.linkedin.com/posts/marshacastellomastersgraduate_unwomenuk-delegates-genderequality-activity-7034143292053192704-RE2m?utm_source=share&utm_medium=member_desktop)
 - Career and Professional Development Coach 💬 👂
 - British Red Cross First Aider ⛑
 - Mental Health First Aider and Wellbeing Champion 🛟
