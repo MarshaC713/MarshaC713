@@ -357,7 +357,7 @@ I love:
  
 
   
-<summary><h2> Expand For My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
+<summary><h2> My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
 <details>
  <summary>Click to see details</summary>
  <br /> 	 
