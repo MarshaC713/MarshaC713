@@ -8,15 +8,13 @@
 -->
 
 
-![Linkedin v10 of White Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/82414822/221046825-8ba309c9-55ba-4eae-b214-928a98e018fe.png)
-
-
-
 <!--![v5 of White Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/82414822/218283182-bbc494f3-742a-4288-9e5b-875508af388c.png) -->
 
 <!-- 
 <a href="https://www.marshacastello.com/s-projects-side-by-side">
 <img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="450"/></a> -->
+
+![Linkedin v10 of White Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/82414822/221046825-8ba309c9-55ba-4eae-b214-928a98e018fe.png)
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
@@ -391,7 +389,9 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 <details>
  <summary>Click to see details</summary>
  <br /> 	 
-	 
+
+
+![1](https://user-images.githubusercontent.com/82414822/228117230-1b271e54-09d9-4d05-ac95-5a42141ebf03.png)
 ---
 	 
 	 
@@ -399,8 +399,8 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 <div align="center">
 <p align="center">
 <a href="https://github.com/MarshaC713">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarshaC713&&show_icons=true&theme=react"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&langs_count=8&theme=react"/>
+<img height="205em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarshaC713&&show_icons=true&theme=react"/>
+<img height="205em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarshaC713&layout=compact&langs_count=8&theme=react"/>
 
  </a>
 </p>
