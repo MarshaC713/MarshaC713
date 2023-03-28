@@ -277,9 +277,14 @@ In addition to software engineering I also write a blog chronicling my journey a
   
   
 
-<details> 
+
   
-<summary><h2> Expand For Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="30">   </h2></summary>
+<summary><h2> Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="30">   </h2></summary>
+
+<details>
+<summary>Click to see details</summary>
+<br /> 
+	
 	
 [ Academy: Software Engineering with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) :
 ![image](https://user-images.githubusercontent.com/82414822/221048567-ac0dc0e3-fff9-4faa-b45e-17f2f826ef29.png)
@@ -290,22 +295,24 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 	
 
-<br><br>
+<br>
 	
 
 	
 	
-	
-	
-  
-	
+		
 
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
-<details> 
-  <summary><h2> Expand For Further Skills, Volunteering & Hobbies <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
+
+  <summary><h2> Further Skills, Volunteering & Hobbies <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
 	  </h2></summary>
+	
+<details>
+ <summary>Click to see details</summary>
+ <br /> 
+	
 	
 	
 ---
@@ -348,10 +355,12 @@ I love:
 
   <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  
- <details> 
+
   
 <summary><h2> Expand For My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
-	 
+<details>
+ <summary>Click to see details</summary>
+ <br /> 	 
 	 
 
 ---
@@ -376,10 +385,12 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  
 
  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
- <details> 
-<summary><h2> Expand For My GitHub Stats <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture>  </h2></summary> 
  
-	 
+<summary><h2> My GitHub Stats <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture>  </h2></summary> 
+ 
+<details>
+ <summary>Click to see details</summary>
+ <br /> 	 
 	 
 ---
 	 
