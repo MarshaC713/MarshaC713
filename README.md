@@ -54,6 +54,8 @@
 <br><br>	
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
 
+	
+### About Me
 - Multi-Award Nominated tech profesional 🏆🏆🏆
 
 - 🤔 I am looking for **Software** / **Data** Engineering / **DevOps** opportunities.
@@ -115,7 +117,7 @@
   
   
   
-### 🗞 Article I have Written &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" />
+### 🗞 Linkedin Article: &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" />
 
   - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
   
@@ -498,9 +500,9 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
     
-### 📣 Ethos: "Never Stop Learning, Because Life Never Stops Teaching" - Anon 
-#### (Interactive Quotable - best viewed with sound on & on desktop)
-https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov
+``` 📣 Ethos: "Never Stop Learning, Because Life Never Stops Teaching" - Anon ```
+<!-- #### (Interactive Quotable - best viewed with sound on & on desktop)
+https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov -->
 
 
  
