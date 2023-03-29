@@ -273,7 +273,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
 
 
- <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
+ <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
 
@@ -303,11 +303,11 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 		
 
- <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
+ <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
 
-  <summary><h2> Further Skills, Volunteering & Hobbies <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
+  <summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
 	  </h2></summary>
 	
 <details>
@@ -357,7 +357,7 @@ I love:
 
 
 
-  <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
+  <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
  
 
   
@@ -388,7 +388,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
  
 
- <a href="https://github.com/MarshaC713"><img align="left" width="120" height="120" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
+ <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a>
  
 <summary><h2> My GitHub Stats <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture>  </h2></summary> 
  
