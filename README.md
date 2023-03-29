@@ -20,7 +20,7 @@
 
 ![Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228680480-31418603-a675-4549-96a5-f45bc109824e.png) -->
 
-![Final Orchid Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228681108-b417f6aa-195c-4b21-be68-0f29293d0245.png)
+![Final Orchid Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228682285-5b9356b2-ed02-46d1-84c8-a69f2294bbe2.png)
 
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
