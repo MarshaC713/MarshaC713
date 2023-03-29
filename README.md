@@ -278,7 +278,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
 
 
- <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
+ <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
   
   
 
@@ -301,7 +301,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 	
 
-<br>
+
 	
 
 	
@@ -316,7 +316,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 	  </h2></summary>
 	
 <details>
- <summary>Click to see details</summary>
+&nbsp;&nbsp;&nbsp; <summary>Click to see details</summary>
  <br /> 
 	
 ![2](https://user-images.githubusercontent.com/82414822/228120571-150088e2-504b-4dfd-819c-56d13b63111e.png)	
@@ -368,7 +368,7 @@ I love:
   
 <summary><h2> My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
 <details>
- <summary>Click to see details</summary>
+ &nbspc <summary>Click to see details</summary>
  <br /> 	 
 	 
 
