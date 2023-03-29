@@ -14,7 +14,9 @@
 <a href="https://www.marshacastello.com/s-projects-side-by-side">
 <img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="450"/></a> -->
 
-![Linkedin v10 of White Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/82414822/221046825-8ba309c9-55ba-4eae-b214-928a98e018fe.png)
+<!-- ![Linkedin v10 of White Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/82414822/221046825-8ba309c9-55ba-4eae-b214-928a98e018fe.png) -->
+
+![1679847711227](https://user-images.githubusercontent.com/82414822/228650238-d8fa569e-981a-4d61-a30e-9a7d799e2af0.jpg)
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
 
