@@ -262,7 +262,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <img align="right" src="https://user-images.githubusercontent.com/82414822/228971476-4aafa90a-169b-4db7-b3fe-2fb9bf983d90.png" width="280px" height="280px" />
-<br /><br />	
+<br /><br /><br /><br />	
   
  ### 🎓  Education:
 - MSc. International Business & Development
