@@ -507,5 +507,6 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 <!-- #### (Interactive Quotable - best viewed with sound on & on desktop)
 https://user-images.githubusercontent.com/82414822/210109712-b0b7989f-5920-4662-b174-ade5dd4e65f0.mov -->
 
-
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" ></img> 
+ </details> 
  
