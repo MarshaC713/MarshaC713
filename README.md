@@ -285,7 +285,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 	
 
-<img align="right" src="https://user-images.githubusercontent.com/82414822/228971476-4aafa90a-169b-4db7-b3fe-2fb9bf983d90.png" width="480px" height="480px" />
+<img align="right" src="https://user-images.githubusercontent.com/82414822/228971476-4aafa90a-169b-4db7-b3fe-2fb9bf983d90.png" width="280px" height="280px" />
 <br />	
 
  <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
