@@ -317,12 +317,11 @@ In addition to software engineering I also write a blog chronicling my journey a
  <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
-
-  <summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
+<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
 	  </h2></summary>
 	
 <details>
-&nbsp;&nbsp;&nbsp; <summary>Click to see details</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <summary>Click to see details</summary>
  <br /> 
 	
 ![2](https://user-images.githubusercontent.com/82414822/228120571-150088e2-504b-4dfd-819c-56d13b63111e.png)	
@@ -374,7 +373,7 @@ I love:
   
 <summary><h2> My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
 <details>
- &nbspc <summary>Click to see details</summary>
+	<summary>Click to see details</summary>
  <br /> 	 
 	 
 
@@ -435,7 +434,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 -->
  
  **Note:**  
-- *Most Used languages* is only a metric of the languages my public code consists of and doesn't reflect full experience or skill level. 
+
 - Jupiter Notebook is the IDE I have used for Python to display visuals, but also able to use Pycharm, VS Code and Atom.
 	
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" ></img> 
