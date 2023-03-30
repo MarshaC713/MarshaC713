@@ -286,7 +286,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 
 <img align="right" src="https://user-images.githubusercontent.com/82414822/228971476-4aafa90a-169b-4db7-b3fe-2fb9bf983d90.png" width="280px" height="280px" />
-<br />	
+<br /><br />	
 
  <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/paLLTrbrxU5I722xgm/giphy.gif"/></a>  
   
@@ -321,12 +321,12 @@ In addition to software engineering I also write a blog chronicling my journey a
  <a href="https://github.com/MarshaC713"><img align="left" width="90" height="90" src="https://media.giphy.com/media/3MsNVMkBrra03mvx47/giphy.gif"/></a> 
   
   
-<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
+<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="40" width ="40">
 	  </h2></summary>
 	
 <details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <summary>Click to see details</summary>
- <br /> 
+<summary>Click to see details</summary>
+<br /> 
 	
 ![2](https://user-images.githubusercontent.com/82414822/228120571-150088e2-504b-4dfd-819c-56d13b63111e.png)	
 
