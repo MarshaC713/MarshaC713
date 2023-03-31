@@ -250,8 +250,9 @@ In addition to software engineering I also write a blog chronicling my journey a
     <a href="#"><img alt="Idle" src="https://img.shields.io/badge/-Idle-F7DF1E?logo=Idle&logoColor=white"></a>
     <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/-JIRA-4D97FF.svg?logo=JIRA&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-010101.svg?logo=linux&logoColor=white"></a>  
+ <a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-F7DF1E?logo=Miro&logoColor=white"></a>	  
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-FF0000?logo=OpenCV&logoColor=white"></a>
-    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/-Miro-F7DF1E?logo=Miro&logoColor=white"></a>
      <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-F0000.svg?logo=Pycharm&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
