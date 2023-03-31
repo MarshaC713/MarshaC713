@@ -296,7 +296,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
   
-<summary><h2> Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="30">   </h2></summary>
+<summary><h2> Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="50">   </h2></summary>
 
 <details>
 <summary>Click to see details</summary>
@@ -319,7 +319,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
   
   
-<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="40" width ="40">
+<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
 	  </h2></summary>
 	
 <details>
@@ -335,7 +335,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 	
    
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> Further Skills and Voluntaring:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="50" /> Further Skills and Voluntaring:
 - [UN Women UK Delegate to the UN Commission on the Status of Women](https://www.linkedin.com/posts/marshacastellomastersgraduate_unwomenuk-delegates-genderequality-activity-7034143292053192704-RE2m?utm_source=share&utm_medium=member_desktop)
 - Career and Professional Development Coach 💬 👂
 - British Red Cross First Aider ⛑
@@ -372,7 +372,7 @@ I love:
  
 
   
-<summary><h2> My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </h2></summary>
+<summary><h2> My Reading List & Resources <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </h2></summary>
 <details>
 	<summary>Click to see details</summary>
  <br /> 	 
