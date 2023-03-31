@@ -296,7 +296,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
 
   
-<summary><h2> Current Studies <picture><img  src="https://media.giphy.com/media/GcZNBLOrZD8Ludw4dP/giphy.gif" width ="50">   </h2></summary>
+<summary><h2> Current Studies <picture><img  src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width ="50">   </h2></summary>
 
 <details>
 <summary>Click to see details</summary>
@@ -319,7 +319,7 @@ In addition to software engineering I also write a blog chronicling my journey a
 
   
   
-<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="50" width ="50">
+<summary><h2> Further Skills & Volunteering  <picture><img  src="https://media.giphy.com/media/qEoA7ZnFEK6nC/giphy.gif" height ="70" width ="70">
 	  </h2></summary>
 	
 <details>
