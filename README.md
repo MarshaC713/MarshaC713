@@ -126,6 +126,7 @@
 ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture> Featured Projects (Click Image):  
 
 <p style="display:flex">
+<img src="https://media.giphy.com/media/uCnzuQ8qYUD68H8J55/giphy.gif" width="405" height="200"/>	
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
 <img src="https://media.giphy.com/media/5Q4h5wS4dDmvDeQJsS/giphy.gif" width="405" height="200"/></a>
 <a href="https://github.com/MarshaC713/Tableau-Dashboard-C19-Vaccination-Tracker">
