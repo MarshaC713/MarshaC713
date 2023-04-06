@@ -36,7 +36,7 @@
 <p align="center"> 
  
   <a href="https://linktr.ee/marshacastello">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Graduate;Sustainable%20Tech%20Advocate;Art%20and%20Culture%20Enthusiast;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7d&vCenter=true&pause=1000&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Data%20Analyst;Microsoft%20Azure%20Certified;Python%20Software%20Engineer%20Grad;PRINCE2%20Practitioner;Masters%20Graduate;Sustainable%20Tech%20Advocate;UN%20Women%20UK%20Delegate%202023;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7d&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 
