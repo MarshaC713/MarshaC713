@@ -126,7 +126,8 @@
 ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 60px>  </picture> Featured Projects (Click Image):  
 
 <p style="display:flex">
-	
+
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3NXpyMDIyazhiODBwdHR4d3F1a3RnaGR2a2h4bmNwaHRvYnN0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNElKBGc8QJtUtN9ue/giphy.gif" width="405" height="200"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZhNWY4NjNlMWJhZGMwMGIzNTQyYWQyMDFjMDdlNzA0ODdhODdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/N2seFpsiUQJCbBdCtr/giphy.gif" width="405" height="200"/>
 <img src="https://media.giphy.com/media/uCnzuQ8qYUD68H8J55/giphy.gif" width="405" height="200"/>	
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
