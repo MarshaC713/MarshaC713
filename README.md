@@ -190,10 +190,10 @@ I have been featured in the following publications:
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
+- [My Article has been published by BCS, The Chartered Institute for IT!](https://medium.com/@Marsha.C/my-article-has-been-published-by-bcs-the-chartered-institute-for-it-ee10b8df5cdb?source=rss-c8b1973cb4de------2)
 - [I am now a UN Women UK Delegate to The 67th Commission on the Status of Women!](https://medium.com/@Marsha.C/i-am-now-a-un-women-uk-delegate-6fc55bd8493f?source=rss-c8b1973cb4de------2)
 - [Software Engineering Training — Now Learning Java, JavaScript &amp; React!](https://medium.com/@Marsha.C/software-engineering-training-now-learning-java-javascript-react-8cfca56e373d?source=rss-c8b1973cb4de------2)
 - [WeAreTheCity Rising Star…](https://medium.com/@Marsha.C/wearethecity-rising-star-2e1da9bf80cf?source=rss-c8b1973cb4de------2)
-- [My &lpar;Extra&rpar;ordinary Tech Journey So Far…](https://medium.com/@Marsha.C/my-extra-ordinary-tech-journey-so-far-7da4e67efaa3?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
 
