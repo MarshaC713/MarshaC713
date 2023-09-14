@@ -89,9 +89,9 @@
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 
-- 🌱 Current studies: [Software Engineering Bootcamp with Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) 🥳
+- 🌱 Current studies: Consolidating Knowledge through project building
 
-- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: **Azure DevOps IAC & CI/CD**, **Tableau**, **Python**, **Data** and **AI & Machine Learning Models**
+- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**,**Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
 
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
 
