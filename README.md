@@ -85,7 +85,7 @@
 ### About Me
 - Multi-Award Nominated tech profesional 🏆🏆🏆
 
-- 🤔 I am looking for **Software** / **Data**  / **DevOps** opportunities.
+- 🤔 I am looking for **Data** / **Software** opportunities.
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
 
