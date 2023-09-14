@@ -272,7 +272,7 @@ In addition to software engineering I also write a blog chronicling my journey a
  ### 🎓  Education:
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
-- Academy: Software Engineering Bootcamp - [Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) (Current)
+- Academy: Software Engineering Bootcamp - [Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) 
 - [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
 - Microsoft Azure Developer Associate completed taught classes and labs.
 - [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view): Firebrand
