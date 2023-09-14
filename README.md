@@ -94,6 +94,7 @@
 - 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**,**Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
 
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
+- 🎯 STEM Mentor with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) helping girls from underserved commuinties to thrive in STEM
 
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumna
 
