@@ -178,9 +178,10 @@ I had written the above article in the early stages of my Azure learning in orde
 
 ### 📯 Features:
 I have been featured in the following publications:
+  - 🔸 [GTA Black Women in Tech: Voices in the Shadow Vol. 3](https://theblackwomenintech.com/order-the-voices-in-the-shadow-volume-3/)
   - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
   - 🔸 [(Extra)Ordinary Tech Stories](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
- - 🔸  [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
+  - 🔸  [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
 	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
@@ -273,16 +274,16 @@ In addition to software engineering I also write a blog chronicling my journey a
 - MSc. International Business & Development
 - BA (Hons) Economics & International Development
 - Academy: Software Engineering Bootcamp - [Xuntos](https://www.xuntos.org/programmes/academy-software-engineering/) 
-- [Microsoft Certified: Azure Fundamentals](https://drive.google.com/file/d/1Pfe44JOiD0oqdbE7ACBG8ZLLRnMUq8aT/view)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 - Microsoft Azure Developer Associate completed taught classes and labs.
-- [Python Software Engineering Bootcamp Graduate](https://drive.google.com/file/d/1o-7RJ5Qu-V8P5-eKV4lUfAfEgJDIe2fI/view): Firebrand
-- [Prince 2 Practitioner](https://www.axelos.com/successful-candidates-register) Project Management 
-- Python PCEP and uCertify IT Specialist [Certifications](https://drive.google.com/file/d/1ZHFP8kuacwGEOyZsZruLhFimDMPCbxuL/view)
-- Advanced Data Analyst Bootcamp Graduate: [Avado Fast Futures](https://eu.credential.net/305a26fb-5f12-402b-9116-ab41a8626aed)
-- Python and Apps 8 week course: [Code First Girls](https://drive.google.com/file/d/1bIV0H_jCPZWcKI-hHoy1d9a7BaFQWSHz/view?usp=sharing):  
-- Data & SQL 8 week course: [Code First Girls](https://drive.google.com/file/d/1R2B8lzWLEOIZDA_3loRtMis0vgzKZZbi/view)
-- AI & Machine Learning MOOC:[Code First Girls](https://drive.google.com/file/d/1w5fr-PKEtSQiOSBujoxl-fgq1iapvGY1/view) 
-- JavaScript, HTML & CSS: [SheCodes](https://www.shecodes.io/certificates/65028dc7adae22b654461864a9d0803d)
+- [Python Software Engineering Bootcamp Graduate](https://firebrand.training/uk/skills-bootcamps/firebrand-skills-bootcamps/subject/software-engineering/python-software-engineer): Firebrand
+- [Prince 2 Practitioner](https://www.axelos.com/certifications/propath/prince2-project-management/prince2-practitioner) Project Management 
+- Python PCEP and uCertify IT Specialist [Certifications](https://pythoninstitute.org/pcep)
+- Advanced Data Analyst Bootcamp Graduate: [Avado Fast Futures](https://www.fastfutures.com/bootcamps/)
+- Python and Apps 8 week course: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/):  
+- Data & SQL 8 week course: [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/)
+- AI & Machine Learning MOOC:[Code First Girls](https://codefirstgirls.com/courses/moocs/) 
+- JavaScript, HTML & CSS: [SheCodes](https://www.shecodes.io/workshop)
 
 
 
