@@ -105,7 +105,7 @@
   
 - 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
   
-- 🌺 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna
+- 💖 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
