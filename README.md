@@ -87,7 +87,9 @@
 
 - 🤔 I am looking for **Data** / **Software** opportunities.
 
-- ⏫ Committed to continuous professional development and a member of the professional bodies BCS, CMI and Forbes Blk
+- ⏫ Committed to continuous professional development and a member of the professional bodies BCS, CMI and Forbes BLK
+  
+- 📜 Trained in both Advanced Data Analytics and Software Engineering
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
