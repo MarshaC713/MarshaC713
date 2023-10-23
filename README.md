@@ -101,11 +101,11 @@
   
 - 🎯 STEM Mentor to 12 students with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) and  [The Catalyst Collective](https://www.thecatalystcollective.co.uk/) helping girls from underserved communities to thrive in STEM and closing Gender Equity gaps
  
-- 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumna
+- 💖 [Code First Girls](https://codefirstgirls.com/about-us/) Alumna & Network
   
 - 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
   
-- 💖 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna
+- 💖 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna & Network
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
