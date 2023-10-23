@@ -180,9 +180,11 @@ I had written the above article in the early stages of my Azure learning in orde
 ### 📯 Features:
 I have been featured in the following publications:
   - 🔸 [GTA Black Women in Tech: Voices in the Shadow Vol. 3](https://theblackwomenintech.com/order-the-voices-in-the-shadow-volume-3/)
-  - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
+  - 🔸 [Black History Month 2023 Website: Black Women in STEM](https://www.blackhistorymonth.org.uk/article/section/stem-careers/black-women-in-stem-marsha-castello/)
+  - 🔸 [Are We There Yet? - Tech Industry Interview](https://www.linkedin.com/pulse/industry-interview-marsha-castello-msc-ambcs-lucy-grimwade-crbge?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
   - 🔸 [(Extra)Ordinary Tech Stories](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
-  - 🔸  [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
+  - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
+  - 🔸 [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
 	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
