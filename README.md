@@ -97,10 +97,8 @@
   
 - 🇺🇳 UN Women UK Delegate to the 67th Commission on the Status of Women
   
-- 🎯 STEM Mentor with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) helping girls from underserved communities to thrive in STEM
-  
-- 🎯 STEM Mentor with [The Catalyst Collective](https://www.thecatalystcollective.co.uk/) helping girls from underserved communities to thrive in STEM
-  
+- 🎯 STEM Mentor to 12 students with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) and  [The Catalyst Collective](https://www.thecatalystcollective.co.uk/) helping girls from underserved communities to thrive in STEM and closing Gender Equity gaps
+ 
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumna
   
 - 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
