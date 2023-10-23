@@ -170,14 +170,12 @@
 
   
   
-### 🗞 Linkedin Article: &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" />
+### 🗞 Technical/ Industry Articles: &nbsp;&nbsp;&nbsp; <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30" />
 
+  - 🔸 [Tech for the Empowerment of Women](https://www.bcs.org/articles-opinion-and-research/tech-for-the-empowerment-of-women/)
   - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
   
-I had written the above article in the early stages of my Azure learning in order to `consolidate` what I had learnt, and have reproduced it on LinkedIn
-
-
-### 📯 Features:
+### 📯 Bio Features:
 I have been featured in the following publications:
   - 🔸 [GTA Black Women in Tech: Voices in the Shadow Vol. 3](https://theblackwomenintech.com/order-the-voices-in-the-shadow-volume-3/)
   - 🔸 [Black History Month 2023 Website: Black Women in STEM](https://www.blackhistorymonth.org.uk/article/section/stem-careers/black-women-in-stem-marsha-castello/)
