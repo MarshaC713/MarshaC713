@@ -87,20 +87,25 @@
 
 - 🤔 I am looking for **Data** / **Software** opportunities.
 
-- ⏫ Committed to continuous professional development and a member of the professional bodies BCS, and CMI
+- ⏫ Committed to continuous professional development and a member of the professional bodies BCS, CMI and Forbes Blk
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
 - 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**,**Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
 
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
-- 🎯 STEM Mentor with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) helping girls from underserved commuinties to thrive in STEM
-
+  
+- 🇺🇳 UN Women UK Delegate to the 67th Commission on the Status of Women
+  
+- 🎯 STEM Mentor with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) helping girls from underserved communities to thrive in STEM
+  
+- 🎯 STEM Mentor with [The Catalyst Collective](https://www.thecatalystcollective.co.uk/) helping girls from underserved communities to thrive in STEM
+  
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) alumna
-
-- 🌺 A Mentee at [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4.
-
-- 🌺 A Mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech - Mentoring and Networking - Programme.
+  
+- 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
+  
+- 🌺 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
