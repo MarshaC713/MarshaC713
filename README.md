@@ -467,7 +467,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 	 
    ### 🔍 🏙 Click to View My GitHub UnWrapped 2023:
-<a href="https://githubunwrapped.com/marshac713"</a>
+<a href="https://githubunwrapped.com/marshac713"</a><img src="https://github.com/MarshaC713/MarshaC713/assets/82414822/36c5e288-5c97-4cac-9307-f2f701007b8b" width="550" height="250"/></a>
 
 
  
