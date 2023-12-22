@@ -53,11 +53,12 @@
 
 <br><br>
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
-<h3> Visit My Online Store! </h3>
+<h3> Visit My Online Store! 🛍 </h3>
 
-I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI.  
+🎯 I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  
+🎯 You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI.  
 
-Click on Image below:
+💥 Click on Image below:
 
 <a href="https://society6.com/onyxthecat"><img width="998" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d">
  
