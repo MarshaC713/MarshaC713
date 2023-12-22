@@ -50,9 +50,14 @@
  <a href="https://linktr.ee/marshacastello"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/k5M5n1iBcMiMbRG6Q9/giphy.gif" width ="130"
 </a>
 </p>
+
+<br><br>
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 	
-	
-	
+I have been upskilling in all things AI and having fun with the latest in Multi-Modal Gen-AI as well as taping into my creative side.  You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI
+
+<img width="998" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d">
+ 
 <br><br>	
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
 
