@@ -206,10 +206,10 @@ I have been featured in the following publications:
 In addition to software engineering I also write a blog chronicling my journey and tech interests. Find a sample of my most recent articles below:
 
 <!-- BLOG-POST-LIST:START -->
+- [A Month of Multiple Awards, Honours and Features!](https://medium.com/@Marsha.C/a-month-of-multiple-awards-honours-and-features-f3ea0b47cf3a?source=rss-c8b1973cb4de------2)
 - [2023 Wrapped!](https://medium.com/@Marsha.C/2023-wrapped-decce58f9029?source=rss-c8b1973cb4de------2)
 - [Visit My Online Shop!](https://medium.com/@Marsha.C/visit-my-online-shop-c1e9086c4eb0?source=rss-c8b1973cb4de------2)
 - [I Love Being A Mentor!](https://medium.com/@Marsha.C/i-love-being-a-mentor-3558a9db76ed?source=rss-c8b1973cb4de------2)
-- [I’m in a book!! Voices in the Shadow Vol. 3 — GTA Black Women in Tech!!!](https://medium.com/@Marsha.C/im-in-a-book-voices-in-the-shadow-vol-3-gta-black-women-in-tech-fbc5bf5b33fc?source=rss-c8b1973cb4de------2)
 <!-- BLOG-POST-LIST:END -->
 
 
