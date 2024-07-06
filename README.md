@@ -1,9 +1,8 @@
 
 
 
-![Colorful Top 20 WID LinkedIn Profile Banner 2 (1)](https://github.com/MarshaC713/MarshaC713/assets/82414822/23be9791-75ca-4229-b936-1cc503bdb0f9)
 
-
+![Colorful Top 20 WID LinkedIn Profile Banner 2 (2)](https://github.com/MarshaC713/MarshaC713/assets/82414822/f4a32f2c-89d7-41bd-b789-0e5dff3491fc)
 
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
