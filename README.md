@@ -22,7 +22,9 @@
 
 ![Final Orchid Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228682285-5b9356b2-ed02-46d1-84c8-a69f2294bbe2.png) -->
 
-![1](https://user-images.githubusercontent.com/82414822/228807945-eb87105c-94de-4288-a787-a077868892cd.png)
+![Colorful Top 20 WID LinkedIn Profile Banner 2 (1)](https://github.com/MarshaC713/MarshaC713/assets/82414822/23be9791-75ca-4229-b936-1cc503bdb0f9)
+
+
 
 
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=MarshaC713&style=flat-square&color=099FB5" alt=""/></div>
