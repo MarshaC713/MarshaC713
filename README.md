@@ -354,8 +354,20 @@ In addition to software engineering I also write a blog chronicling my journey a
 	
 	
    
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="50" /> Further Skills and Voluntaring:
-- [UN Women UK Delegate to the UN Commission on the Status of Women](https://www.linkedin.com/posts/marshacastellomastersgraduate_unwomenuk-delegates-genderequality-activity-7034143292053192704-RE2m?utm_source=share&utm_medium=member_desktop)
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="50" /> Further Skills and Volunteering:
+- 🇺🇳 [UN Women UK Delegate to the UN Commission on the Status of Women](https://www.linkedin.com/posts/marshacastellomastersgraduate_unwomenuk-delegates-genderequality-activity-7034143292053192704-RE2m?utm_source=share&utm_medium=member_desktop)
+  
+- 🎯 GTA Black Women in Tech Research & Data Analysis Ambassador - Conducting a year long research study into the needs and requirements of Black women in tech - Ireland
+
+- 🎯 Women in Data® & Tech Ambassador - Global Role model for Women in Data® & Tech 
+  
+- 🎯 STEM Ambassador - Working with schools, colleges, higher education institutions, teachers, and mentoring organisations to bring STEM subjects alive and to link these fields of study to the real world of work.
+  
+- 🎯 STEM Mentor to over **20** students in STEM and counting:
+   - including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) as sponsored by Microsoft,
+   - 6 with 🌸 [BrightSide Network](https://brightside.org.uk/)
+   - and 1 with 🌸 [The Catalyst Collective](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics) helping girls from 
+   underserved communities to thrive in STEM and closing Gender Equity gaps
 - Career and Professional Development Coach 💬 👂
 - British Red Cross First Aider ⛑
 - Mental Health First Aider and Wellbeing Champion 🛟
