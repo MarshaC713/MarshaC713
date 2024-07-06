@@ -106,7 +106,7 @@
   
 - 📜 Trained in both Advanced Data Analytics and Python Software Engineering
   
-- ⬆️ Top skills SQL, Python, Java, Power BI, Tableau, Advanced Excel, Advanced Data Analytics, and Data Science 
+- ⬆️ Top skills Azure, SQL, Python, Java, Power BI, Tableau, Advanced Excel, Advanced Data Analytics, and Data Science 
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
@@ -118,17 +118,19 @@
 
   
 - 🎯 STEM Mentor to over 20 students in STEM and counting:
-   including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD),
+   including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) as sponsored by Microsoft,
    6 with 🌸 [BrightSide Network](https://brightside.org.uk/)
    and 1 with 🌸 [The Catalyst Collective](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics) helping girls from 
    underserved communities to thrive in STEM and closing Gender Equity gaps
+
+- 💖 [Elevate - Women in Tech](https://www.linkedin.com/posts/elevate-women-in-tech_elevatewomenintech-cohort1-womenintech-activity-7169348654540001280-Khm8?utm_source=share&utm_medium=member_desktop) Leadership programme 2024 - Programme - Cohort 1, Alumna & Network
  
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) Alumna & Network
   
 - 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
   
 - 💖 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna & Network
-- 💖 [Elevate - Women](https://www.linkedin.com/posts/elevate-women-in-tech_elevatewomenintech-cohort1-womenintech-activity-7169348654540001280-Khm8?utm_source=share&utm_medium=member_desktop) Elevate - Women in Tech Leadership programme 2024 - Programme - Cohort 1, Alumna & Network
+
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
