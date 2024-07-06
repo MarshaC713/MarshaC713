@@ -50,8 +50,8 @@
 <img src="https://user-images.githubusercontent.com/82414822/210120363-212819d3-7cae-4d65-a1fa-6e5d0f1a8d96.png" width="60" alt="Linktree badge"/>
  &nbsp &nbsp
  <a href="https://www.marshacastello.com/s-projects-side-by-side">
-<img src="https://user-images.githubusercontent.com/82414822/210136144-beafa863-9876-45e0-91b6-1db60bba2b24.jpg" width="60" alt="Linktree badge"/>
-&nbsp &nbsp
+<!-- <img src="https://user-images.githubusercontent.com/82414822/210136144-beafa863-9876-45e0-91b6-1db60bba2b24.jpg" width="60" alt="Linktree badge"/>
+&nbsp &nbsp -->
  <a href="https://dev.to/marshac713">
 <img src="https://user-images.githubusercontent.com/82414822/210137211-3d4d419f-d513-42f8-9e85-ead0f123c54c.png" width="60" alt="Dev.to badge"/>
     </p>
@@ -128,8 +128,9 @@
 
 <p style="display:flex">
 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3NXpyMDIyazhiODBwdHR4d3F1a3RnaGR2a2h4bmNwaHRvYnN0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNElKBGc8QJtUtN9ue/giphy.gif" width="405" height="200"/>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZhNWY4NjNlMWJhZGMwMGIzNTQyYWQyMDFjMDdlNzA0ODdhODdjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/N2seFpsiUQJCbBdCtr/giphy.gif" width="405" height="200"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3NXpyMDIyazhiODBwdHR4d3F1a3RnaGR2a2h4bmNwaHRvYnN0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNElKBGc8QJtUtN9ue/giphy.gif" width="405" height="200"/>
 <img src="https://media.giphy.com/media/uCnzuQ8qYUD68H8J55/giphy.gif" width="405" height="200"/>	
 <a href="https://github.com/MarshaC713/Employee-Attrition-Tableau-Dashboard">
 <img src="https://media.giphy.com/media/5Q4h5wS4dDmvDeQJsS/giphy.gif" width="405" height="200"/></a>
