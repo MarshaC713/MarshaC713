@@ -85,7 +85,8 @@
 - 🌍 Passionate advocate for Women in Data & Tech, and sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
   
 - 🇺🇳 UN Women UK Delegate to the 67th & 68th Commission on the Status of Women
-
+  
+- 🎯 STEM Ambassador - Working with schools, colleges, higher education institutions, teachers, and mentoring organisations to bring STEM subjects alive and to link these fields of study to the real world of work.
   
 - 🎯 STEM Mentor to over **20** students in STEM and counting:
    - including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) as sponsored by Microsoft,
@@ -175,6 +176,8 @@
 
   - 🔸 [Tech for the Empowerment of Women](https://www.bcs.org/articles-opinion-and-research/tech-for-the-empowerment-of-women/)
   - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
+  - 🔸 [Elevate - Women in Tech - Wall of Inspiration Spotlight Series](https://halzak.com/wall-of-inspiration/inspirationalwomenintech-no-9/)
+  - 🔸 [The Catalyst Collective Blog - Meet Our Mentors - Marsha Castello - Data Analytics](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics)
   
 ### 📯 Bio Features:
 I have been featured in the following publications:
@@ -185,8 +188,7 @@ I have been featured in the following publications:
   - 🔸 [(Extra)Ordinary Tech Stories](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
   - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
   - 🔸 [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
-  - 🔸 [Elevate - Women in Tech - Wall of Inspiration Spotlight Series](https://halzak.com/wall-of-inspiration/inspirationalwomenintech-no-9/)
-  - 🔸 [The Catalyst Collective Blog - Meet Our Mentors - Marsha Castello - Data Analytics](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics)
+
 	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
