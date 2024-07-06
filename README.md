@@ -117,10 +117,10 @@
 - 🇺🇳 UN Women UK Delegate to the 67th & 68th Commission on the Status of Women
 
   
-- 🎯 STEM Mentor to over 20 students in STEM and counting:
-   including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) as sponsored by Microsoft,
-   6 with 🌸 [BrightSide Network](https://brightside.org.uk/)
-   and 1 with 🌸 [The Catalyst Collective](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics) helping girls from 
+- 🎯 STEM Mentor to over **20** students in STEM and counting:
+   - including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) as sponsored by Microsoft,
+   - 6 with 🌸 [BrightSide Network](https://brightside.org.uk/)
+   - and 1 with 🌸 [The Catalyst Collective](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics) helping girls from 
    underserved communities to thrive in STEM and closing Gender Equity gaps
 
 - 💖 [Elevate - Women in Tech](https://www.linkedin.com/posts/elevate-women-in-tech_elevatewomenintech-cohort1-womenintech-activity-7169348654540001280-Khm8?utm_source=share&utm_medium=member_desktop) Leadership programme 2024 - Programme - Cohort 1, Alumna & Network
