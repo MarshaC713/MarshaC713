@@ -63,7 +63,7 @@
   
 	
 ### About Me
-- Multi-Award Nominated Tech Profesional 🏆🏆🏆
+- 🏆🏆🏆 Multi-Award Nominated Tech Profesional 
   Including, but not limited to:
 - ❤️  Women in Data® - Top 20 Women in Data & Tech
 - 💛 Global Tech Advocates - Top 51 Black Women in Tech
