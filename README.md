@@ -67,7 +67,7 @@
   Including, but not limited to:
 - ❤️  Women in Data® - Top 20 Women in Data & Tech
 - 💛 Global Tech Advocates - Top 51 Black Women in Tech
-- 🖤 Black Tech Achievement Award Developer of the Year 2024!
+- 🖤 Black Tech Achievement Award - Developer of the Year 2024!
 - 🚨 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
 
 - 🤔 I am looking for **Data** / **Cloud** / **Software** opportunities.
@@ -85,6 +85,10 @@
 - 🌍 Passionate advocate for Women in Data & Tech, and sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
   
 - 🇺🇳 UN Women UK Delegate to the 67th & 68th Commission on the Status of Women
+  
+- 🎯 GTA Black Women in Tech Research & Data Analysis Ambassador - Conducting a year long research study into the needs and requirements of Black women in tech - Ireland
+
+- 🎯 Women in Data® & Tech Ambassador - Global Role model for Women in Data® & Tech 
   
 - 🎯 STEM Ambassador - Working with schools, colleges, higher education institutions, teachers, and mentoring organisations to bring STEM subjects alive and to link these fields of study to the real world of work.
   
