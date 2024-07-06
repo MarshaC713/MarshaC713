@@ -32,17 +32,8 @@
 </p>
 <br><br>
 <img width="1553" alt="Screenshot 2024-07-06 at 18 58 57" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/894877e4-8f90-4d54-a5e7-9f240a577caf">
-<br><br>
-<img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif" width="153">
-<h3> Visit My Online Store! 🛍 </h3>
 
-🎯 I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  
 
-🎯 You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI.  
-
-💥 Click on Image below:
-
-<a href="https://society6.com/onyxthecat"><img width="650" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d">
  
 <br><br>	
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">	
@@ -469,7 +460,17 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
    ### 🔍 🏙 Click to View My GitHub UnWrapped 2023:
 
 
-<a href="https://githubunwrapped.com/marshac713"><img width="250" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/4268e940-fc53-4728-a253-410f0c492c27">
+<a href="https://githubunwrapped.com/marshac713"><img width="250" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/4268e940-fc53-4728-a253-410f0c492c27"> 
+ <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+<h3> Visit My Online Store! 🛍 </h3>
+
+🎯 I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  
+
+🎯 You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI.  
+
+💥 Click on Image below:
+
+<a href="https://society6.com/onyxthecat"><img width="650" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d">
  
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
