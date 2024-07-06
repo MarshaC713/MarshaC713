@@ -470,7 +470,7 @@ by Brian P. Moran](https://www.amazon.co.uk/12-Week-Year-Others-Months/dp/111850
 
 💥 Click on Image below:
 
-<a href="https://society6.com/onyxthecat"><img width="650" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d">
+<a href="https://society6.com/onyxthecat"><img width="650" alt="Screenshot 2023-12-21 at 14 05 43" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/32eac35d-91f8-4d85-a042-74db398dab4d" width="1500">
  
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
