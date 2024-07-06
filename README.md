@@ -65,10 +65,10 @@
 ### About Me
 - 🏆🏆🏆 Multi-Award Nominated Tech Profesional 
   Including, but not limited to:
-- ❤️  Women in Data® - Top 20 Women in Data & Tech
-- 💛 Global Tech Advocates - Top 51 Black Women in Tech
-- 🖤 Black Tech Achievement Award - Developer of the Year 2024!
-- 🚨 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
+  - ❤️  Women in Data® - Top 20 Women in Data & Tech
+  -  💛 Global Tech Advocates - Top 51 Black Women in Tech
+  - 🖤 Black Tech Achievement Award - Developer of the Year 2024!
+  - 🚨 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
 
 - 🤔 I am looking for **Data** / **Cloud** / **Software** opportunities.
 
