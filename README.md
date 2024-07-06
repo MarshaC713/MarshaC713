@@ -98,7 +98,7 @@
 - ❤️  Women in Data® - Top 20 Women in Data & Tech
 - 💛 Global Tech Advocates - Top 51 Black Women in Tech
 - 🖤 Black Tech Achievement Award Developer of the Year 2024!
-- 🇬🇧 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
+- 🚨 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
 
 - 🤔 I am looking for **Data** / **Cloud** / **Software** opportunities.
 
@@ -110,9 +110,9 @@
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
-- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**,**Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
+- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**, **Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
 
-- 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
+- 🌍 Passionate advocate for Women in Data & Tech, and sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
   
 - 🇺🇳 UN Women UK Delegate to the 67th & 68th Commission on the Status of Women
 
@@ -213,6 +213,7 @@ I have been featured in the following publications:
   - 🔸 [(Extra)Ordinary Tech Stories](https://www.extraordinarytechstories.com/post/marsha-castello-from-international-business-and-development-to-data-analyst)
   - 🔸 [Women In Tech: The Trendcoder.com](https://thetrendycoder.com/women-in-tech-series-interview-with-marsha-castello/#more-2631)
   - 🔸 [Tech Role Model With Girls Leadership Academy Meetup (GLAM) - Empowering Young Girls Into STEM ](https://glam.iappease.co/role-models/?clientallow=true&id=523)
+  - 🔸 [Elevate - Women in Tech ](https://halzak.com/wall-of-inspiration/inspirationalwomenintech-no-9/)
 	
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
