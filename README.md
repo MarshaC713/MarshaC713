@@ -56,6 +56,7 @@
 <h3> Visit My Online Store! 🛍 </h3>
 
 🎯 I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  
+
 🎯 You can now purchase from over a variety of 80 different items with my unique designs and brought to life by Gen-AI.  
 
 💥 Click on Image below:
@@ -92,13 +93,20 @@
   
 	
 ### About Me
-- Multi-Award Nominated tech profesional 🏆🏆🏆
+- Multi-Award Nominated Tech Profesional 🏆🏆🏆
+  Including, but not limited to:
+- ❤️  Women in Data® - Top 20 Women in Data & Tech
+- 💛 Global Tech Advocates - Top 51 Black Women in Tech
+- 🖤 Black Tech Achievement Award Developer of the Year 2024!
+- 🇬🇧 Computer Weekly Longlist - UKtech50 2024: The longlist of the UK’s Top 50 influential tech leaders
 
-- 🤔 I am looking for **Data** / **Software** opportunities.
+- 🤔 I am looking for **Data** / **Cloud** / **Software** opportunities.
 
 - ⏫ Committed to continuous professional development and a member of the professional bodies BCS, CMI and Forbes BLK
   
-- 📜 Trained in both Advanced Data Analytics and Software Engineering
+- 📜 Trained in both Advanced Data Analytics and Python Software Engineering
+  
+- ⬆️ Top skills SQL, Python, Java, Power BI, Tableau, Advanced Excel, Advanced Data Analytics, and Data Science 
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
@@ -106,15 +114,21 @@
 
 - 🌍 Passionate advocate for sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
   
-- 🇺🇳 UN Women UK Delegate to the 67th Commission on the Status of Women
+- 🇺🇳 UN Women UK Delegate to the 67th & 68th Commission on the Status of Women
+
   
-- 🎯 STEM Mentor to 12 students with [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD) and  [The Catalyst Collective](https://www.thecatalystcollective.co.uk/) helping girls from underserved communities to thrive in STEM and closing Gender Equity gaps
+- 🎯 STEM Mentor to over 20 students in STEM and counting:
+   including 15 students with 🌸 [STEM Passport for Inclusion](https://youtu.be/KAjdzn8QfU4?si=6OKBlUtJv6hIiQeD),
+   6 with 🌸 [BrightSide Network](https://brightside.org.uk/)
+   and 1 with 🌸 [The Catalyst Collective](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics) helping girls from 
+   underserved communities to thrive in STEM and closing Gender Equity gaps
  
 - 💖 [Code First Girls](https://codefirstgirls.com/about-us/) Alumna & Network
   
 - 💖 [Cajigo](http://www.structur3dpeople.co.uk/cajigo/) 100 Women in Tech Accelerator Programme Alumna & Network
   
 - 💖 [Black Girls in Tech](https://www.blackgirlsintech.org/mentoring-programme) 100 Women in Tech - Mentoring and Networking - Programme - Cohort 4, Alumna & Network
+- 💖 [Elevate - Women](https://www.linkedin.com/posts/elevate-women-in-tech_elevatewomenintech-cohort1-womenintech-activity-7169348654540001280-Khm8?utm_source=share&utm_medium=member_desktop) Elevate - Women in Tech Leadership programme 2024 - Programme - Cohort 1, Alumna & Network
 
 - ❓ Ask me about **Cloud Computing, Coding, Data,** and **Tech Careers**
 
