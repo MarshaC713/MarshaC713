@@ -110,7 +110,7 @@
 
 - 🌱 Current studies: Consolidating Knowledge through project building
 
-- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: * **Data**, **Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
+- 🚀 [Projects](https://github.com/MarshaC713?tab=repositories) I am currently deploying include: **Data**, **Data Visualisation** and **AI & Machine Learning Models**, using **Python**, **SQL**, **Power BI**, and **Tableau**
 
 - 🌍 Passionate advocate for Women in Data & Tech, and sustainable technological innovation and ethical AI & ML to create lasting positive real world change and solutions.
   
