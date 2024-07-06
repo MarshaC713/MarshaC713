@@ -182,6 +182,7 @@
   - 🔸 [Considering Data Reduncy Solutions, As Computers Meltdown During Heatwave](https://www.linkedin.com/pulse/considering-data-redundancy-solutions-hospital-during-marsha) 🔥
   - 🔸 [Elevate - Women in Tech - Wall of Inspiration Spotlight Series](https://halzak.com/wall-of-inspiration/inspirationalwomenintech-no-9/)
   - 🔸 [The Catalyst Collective Blog - Meet Our Mentors - Marsha Castello - Data Analytics](https://www.thecatalystcollective.co.uk/post/meet-our-mentors-marsha-in-data-analytics)
+  - 🔸 [We Are Tech Women - What are the hallmarks of an exceptional Data Analyst?](https://wearetechwomen.com/what-are-the-hallmarks-of-an-exceptional-data-analyst/)
   
 ### 📯 Bio Features:
 I have been featured in the following publications:
