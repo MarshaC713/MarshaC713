@@ -1,26 +1,5 @@
 
 
-<!-- ![Blue Violet Neon Best Games YouTube Thumbnail (9)](https://user-images.githubusercontent.com/82414822/209595686-4f5b26a4-56e7-4535-8dac-27e6078f2135.png) 
-![_Minimalist github Profile LinkedIn Banner](https://user-images.githubusercontent.com/82414822/217677083-d5d538e6-ef58-4e35-acfa-98e7bd767f56.png)
-
-
-![Github v9 of White Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/82414822/218601657-8b08a05a-adfe-422a-98ba-2422305f42c3.png)
--->
-
-
-<!--![v5 of White Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/82414822/218283182-bbc494f3-742a-4288-9e5b-875508af388c.png) -->
-
-<!-- 
-<a href="https://www.marshacastello.com/s-projects-side-by-side">
-<img src="https://media.giphy.com/media/EA5Ujj1lFUgfgJEluY/giphy.gif" width="10200" height="450"/></a> -->
-
-<!-- ![Linkedin v10 of White Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/82414822/221046825-8ba309c9-55ba-4eae-b214-928a98e018fe.png) 
-
-![1](https://user-images.githubusercontent.com/82414822/228651153-67567bfc-7b23-4461-a694-0b562bb01f56.png)
-
-![Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228680480-31418603-a675-4549-96a5-f45bc109824e.png) 
-
-![Final Orchid Black and White Modern Linkedin Banner](https://user-images.githubusercontent.com/82414822/228682285-5b9356b2-ed02-46d1-84c8-a69f2294bbe2.png) -->
 
 ![Colorful Top 20 WID LinkedIn Profile Banner 2 (1)](https://github.com/MarshaC713/MarshaC713/assets/82414822/23be9791-75ca-4229-b936-1cc503bdb0f9)
 
@@ -52,9 +31,10 @@
  <a href="https://linktr.ee/marshacastello"><img alt="languages and tools icon" title="skills" src="https://media.giphy.com/media/k5M5n1iBcMiMbRG6Q9/giphy.gif" width ="130"
 </a>
 </p>
-
 <br><br>
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+<img width="1553" alt="Screenshot 2024-07-06 at 18 58 57" src="https://github.com/MarshaC713/MarshaC713/assets/82414822/894877e4-8f90-4d54-a5e7-9f240a577caf">
+<br><br>
+<img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif" width="153">
 <h3> Visit My Online Store! 🛍 </h3>
 
 🎯 I have been upskilling in all things <b>AI</b> and having fun with the latest in <b>Multi-Modal</b> <b>Gen-AI</b> as well as taping into my <b>creative</b> side.  
